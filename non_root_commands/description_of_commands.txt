@@ -1,0 +1,2735 @@
+     1	pwsh (1)             - PowerShell command-line shell and .NET REPL
+     2	python3 (1)          - an interpreted, interactive, object-oriented programming language
+     3	[ (1)                - check file types and compare values
+     4	411toppm (1)         - convert Sony Mavica .411 image to ppm
+     5	7z (1)               - A file archiver with high compression ratio format
+     6	7za (1)              - A file archiver with high compression ratio format
+     7	7zr (1)              - A file archiver with high compression ratio format
+     8	aa-easyprof (8)      - AppArmor profile generation made easy.
+     9	aa-enabled (1)       - test whether AppArmor is enabled
+    10	aa-exec (1)          - confine a program with the specified AppArmor profile
+    11	aa-notify (8)        - display information about logged AppArmor messages.
+    12	ab (1)               - Apache HTTP server benchmarking tool
+    13	aclocal (1)          - manual page for aclocal 1.16.3
+    14	aclocal-1.16 (1)     - manual page for aclocal 1.16.3
+    15	aconnect (1)         - ALSA sequencer connection manager
+    16	activate-global-python-argcomplete3 (1) - activate-global-python-argcomplete - argcomplete utility script
+    17	acyclic (1)          - make directed graph acyclic
+    18	addftinfo (1)        - add information to troff font files for use with groff
+    19	addpart (8)          - tell the kernel about the existence of a partition
+    20	addr2line (1)        - convert addresses or symbol+offset into file names and line numbers
+    21	affcat (1)           - Output contents of an image file to stdout.
+    22	affcompare (1)       - compare the contents of an ISO file to an AFF file
+    23	affconvert (1)       - convert files between RAW and AFF formats
+    24	affcopy (1)          - reorder and recompress AFF files
+    25	affcrypto (1)        - handle encryption issues
+    26	affdiskprint (1)     - create a diskprint AFF structure
+    27	affinfo (1)          - print information about an AFF file
+    28	affix (1)            - fix a corrupted AFF file
+    29	affrecover (1)       - recover broken pages of an AFF file
+    30	affsegment (1)       - segment manipulation tool
+    31	affsign (1)          - sign an existing AFF file
+    32	affstats (1)         - print specific statistics about one or more AFF files
+    33	affuse (1)           - provide access to AFF containers
+    34	affverify (1)        - verify the digital signature on a signed file
+    35	affxml (1)           - print AFF information as XML
+    36	afl-analyze (8)      - afl-analyze++2.68c by Michal Zalewski
+    37	afl-clang-fast (8)   - afl-clang-fast++2.68c by <lszekeres@google.com> in PCGUARD mode
+    38	afl-clang-fast++ (8) - afl-clang-fast++2.68c by <lszekeres@google.com> in PCGUARD mode
+    39	afl-cmin (8)         - corpus minimization tool for afl++ (awk version)
+    40	afl-cmin.bash (8)    - corpus minimization tool for afl-fuzz by Michal Zalewski
+    41	afl-fuzz (8)         - afl-fuzz++2.68c based on afl by Michal Zalewski and a big online community
+    42	afl-g++ (8)          - afl-cc++2.68c by Michal Zalewski
+    43	afl-gcc (8)          - afl-cc++2.68c by Michal Zalewski
+    44	afl-gotcpu (8)       - afl-gotcpu++2.68c by Michal Zalewski
+    45	afl-plot (8)         - progress plotting utility for afl-fuzz by Michal Zalewski
+    46	afl-showmap (8)      - afl-showmap++2.68c by Michal Zalewski
+    47	afl-system-config (8) - afl-system-config by Marc Heuse <mh@mh-sec.de>
+    48	afl-tmin (8)         - afl-tmin++2.68c by Michal Zalewski
+    49	afl-whatsup (8)      - ./afl-whatsup status check tool for afl-fuzz by Michal Zalewski
+    50	afmtodit (1)         - create font files for use with groff -Tps and -Tpdf
+    51	aircrack-ng (1)      - a 802.11 WEP / WPA-PSK key cracker
+    52	airdecap-ng (1)      - decrypt a WEP/WPA crypted pcap file
+    53	airdecloak-ng (1)    - Removes wep cloaked framed from a pcap file.
+    54	airolib-ng (1)       - manage and create a WPA/WPA2 pre-computed hashes tables
+    55	alsabat (1)          - command-line sound tester for ALSA sound card driver
+    56	alsaloop (1)         - command-line PCM loopback
+    57	alsamixer (1)        - soundcard mixer for ALSA soundcard driver, with ncurses interface
+    58	alsatplg (1)         - ALSA Topology Compiler
+    59	alsaucm (1)          - ALSA Use Case Manager
+    60	amidi (1)            - read from and write to ALSA RawMIDI ports
+    61	amixer (1)           - command-line mixer for ALSA soundcard driver
+    62	animate (1)          - command-line utility to create, edit, compare, convert, or display images
+    63	anonsurf (1)         - Anonymizaton toolkit for Parrot Security OS
+    64	anytopnm (1)         - attempt to convert an unknown type of image file to a portable anymap
+    65	aplay (1)            - command-line sound recorder and player for ALSA soundcard driver
+    66	aplaymidi (1)        - play Standard MIDI Files
+    67	appres (1)           - list X application resource database
+    68	apropos (1)          - search the manual page names and descriptions
+    69	apt (8)              - command-line interface
+    70	apt-cache (8)        - query the APT cache
+    71	apt-cdrom (8)        - APT CD-ROM management utility
+    72	apt-config (8)       - APT Configuration Query program
+    73	apt-extracttemplates (1) - Utility to extract debconf config and templates from Debian packages
+    74	apt-ftparchive (1)   - Utility to generate index files
+    75	apt-get (8)          - APT package handling utility -- command-line interface
+    76	apt-key (8)          - Deprecated APT key management utility
+    77	apt-listchanges (1)  - Show new changelog entries from Debian package archives
+    78	apt-mark (8)         - show, set and unset various settings for a package
+    79	apt-sortpkgs (1)     - Utility to sort package index files
+    80	ar (1)               - create, modify, and extract from archives
+    81	arch (1)             - print machine hardware name (same as uname -m)
+    82	arecord (1)          - command-line sound recorder and player for ALSA soundcard driver
+    83	arecordmidi (1)      - record Standard MIDI Files
+    84	arj (1)              - Archiver for .arj files
+    85	arjdisp (1)          - ARJ simple graphical interface
+    86	arj-register (1)     - Register the ARJ archiver
+    87	as (1)               - the portable GNU assembler.
+    88	asc2log (1)          - manual page for asc2log 2020.11.0-1
+    89	asciitopgm (1)       - convert ASCII graphics into a portable graymap
+    90	aseqdump (1)         - show the events received at an ALSA sequencer port
+    91	aseqnet (1)          - ALSA sequencer connectors over network
+    92	aspell (1)           - interactive spell checker
+    93	aspell-import (1)    - import old personal dictionaries into GNU Aspell
+    94	atk6-address6 (8)    - (unknown subject)
+    95	atk6-alive6 (8)      - (unknown subject)
+    96	atk6-connect6 (8)    - (unknown subject)
+    97	atk6-connsplit6 (8)  - (unknown subject)
+    98	atk6-covert_send6 (8) - (unknown subject)
+    99	atk6-covert_send6d (8) - (unknown subject)
+   100	atk6-denial6 (8)     - (unknown subject)
+   101	atk6-detect-new-ip6 (8) - (unknown subject)
+   102	atk6-detect_sniffer6 (8) - (unknown subject)
+   103	atk6-dnsdict6 (8)    - (unknown subject)
+   104	atk6-dnsrevenum6 (8) - (unknown subject)
+   105	atk6-dnssecwalk (8)  - (unknown subject)
+   106	atk6-dos-new-ip6 (8) - (unknown subject)
+   107	atk6-dump_dhcp6 (8)  - (unknown subject)
+   108	atk6-dump_router6 (8) - (unknown subject)
+   109	atk6-exploit6 (8)    - (unknown subject)
+   110	atk6-extract_hosts6 (8) - (unknown subject)
+   111	atk6-extract_networks6 (8) - (unknown subject)
+   112	atk6-fake_advertise6 (8) - (unknown subject)
+   113	atk6-fake_dhcps6 (8) - (unknown subject)
+   114	atk6-fake_dns6d (8)  - (unknown subject)
+   115	atk6-fake_dnsupdate6 (8) - (unknown subject)
+   116	atk6-fake_mipv6 (8)  - (unknown subject)
+   117	atk6-fake_mld26 (8)  - (unknown subject)
+   118	atk6-fake_mld6 (8)   - (unknown subject)
+   119	atk6-fake_mldrouter6 (8) - (unknown subject)
+   120	atk6-fake_pim6 (8)   - (unknown subject)
+   121	atk6-fake_router26 (8) - (unknown subject)
+   122	atk6-fake_router6 (8) - (unknown subject)
+   123	atk6-fake_solicitate6 (8) - (unknown subject)
+   124	atk6-firewall6 (8)   - (unknown subject)
+   125	atk6-flood_advertise6 (8) - (unknown subject)
+   126	atk6-flood_dhcpc6 (8) - (unknown subject)
+   127	atk6-flood_mld26 (8) - (unknown subject)
+   128	atk6-flood_mld6 (8)  - (unknown subject)
+   129	atk6-flood_mldrouter6 (8) - (unknown subject)
+   130	atk6-flood_redir6 (8) - (unknown subject)
+   131	atk6-flood_router26 (8) - (unknown subject)
+   132	atk6-flood_router6 (8) - (unknown subject)
+   133	atk6-flood_rs6 (8)   - (unknown subject)
+   134	atk6-flood_solicitate6 (8) - (unknown subject)
+   135	atk6-flood_unreach6 (8) - (unknown subject)
+   136	atk6-four2six (8)    - (unknown subject)
+   137	atk6-fragmentation6 (8) - (unknown subject)
+   138	atk6-fragrouter6 (8) - (unknown subject)
+   139	atk6-fuzz_dhcpc6 (8) - (unknown subject)
+   140	atk6-fuzz_dhcps6 (8) - (unknown subject)
+   141	atk6-fuzz_ip6 (8)    - (unknown subject)
+   142	atk6-implementation6 (8) - (unknown subject)
+   143	atk6-implementation6d (8) - (unknown subject)
+   144	atk6-inject_alive6 (8) - (unknown subject)
+   145	atk6-inverse_lookup6 (8) - (unknown subject)
+   146	atk6-kill_router6 (8) - (unknown subject)
+   147	atk6-ndpexhaust26 (8) - (unknown subject)
+   148	atk6-ndpexhaust6 (8) - (unknown subject)
+   149	atk6-node_query6 (8) - (unknown subject)
+   150	atk6-parasite6 (8)   - (unknown subject)
+   151	atk6-passive_discovery6 (8) - (unknown subject)
+   152	atk6-randicmp6 (8)   - (unknown subject)
+   153	atk6-redir6 (8)      - (unknown subject)
+   154	atk6-redirsniff6 (8) - (unknown subject)
+   155	atk6-rsmurf6 (8)     - (unknown subject)
+   156	atk6-sendpees6 (8)   - (unknown subject)
+   157	atk6-sendpeesmp6 (8) - (unknown subject)
+   158	atk6-smurf6 (8)      - (unknown subject)
+   159	atk6-thcping6 (8)    - (unknown subject)
+   160	atk6-thcsyn6 (8)     - (unknown subject)
+   161	atk6-toobig6 (8)     - (unknown subject)
+   162	atk6-toobigsniff6 (8) - (unknown subject)
+   163	atk6-trace6 (8)      - (unknown subject)
+   164	atktopbm (1)         - convert Andrew Toolkit raster object to portable bitmap
+   165	atobm (1)            - bitmap editor and converter utilities for the X Window System
+   166	atril (1)            - The MATE Document Viewer
+   167	atril-previewer (1)  - show print preview for a document
+   168	atril-thumbnailer (1) - create png thumbnails from atril supported documents
+   169	attr (1)             - extended attributes on filesystem objects
+   170	autoconf (1)         - Generate configuration scripts
+   171	autoheader (1)       - Create a template header for configure
+   172	autom4te (1)         - Generate files and scripts thanks to M4
+   173	automake (1)         - manual page for automake 1.16.3
+   174	automake-1.16 (1)    - manual page for automake 1.16.3
+   175	autopsy (1)          - Autopsy Forensic Browser
+   176	autoreconf (1)       - Update generated configuration files
+   177	autoscan (1)         - Generate a preliminary configure.in
+   178	autoupdate (1)       - Update a configure.in to a newer Autoconf
+   179	avro (1)             - command-line utility for reading and writing Avro files
+   180	awk (1)              - pattern scanning and text processing language
+   181	axfer (1)            - command-line sound recorder and player for sound devices and nodes supported by Linux sound subsystem (Advanced Linux Sound Architecture, also known as ALSA).
+   182	b2sum (1)            - compute and check BLAKE2 message digest
+   183	b43-fwcutter (1)     - Utility for extracting Broadcom 43xx firmware
+   184	backdoor-factory (1) - inject predefined or user-defined shellcode in binaries
+   185	base32 (1)           - base32 encode/decode data and print to standard output
+   186	base64 (1)           - base64 encode/decode data and print to standard output
+   187	basename (1)         - strip directory and suffix from filenames
+   188	basename (3)         - parse pathname components
+   189	basenc (1)           - Encode/decode data and print to standard output
+   190	bash (1)             - GNU Bourne-Again SHell
+   191	bashbug (1)          - report a bug in bash
+   192	bc (1)               - An arbitrary precision calculator language
+   193	bccmd (1)            - Utility for the CSR BCCMD interface
+   194	bcomps (1)           - biconnected components filter for graphs
+   195	bdftopcf (1)         - convert X font from Bitmap Distribution Format to Portable Compiled Format
+   196	bdftruncate (1)      - generate truncated BDF font from ISO 10646-1-encoded BDF font
+   197	besside-ng-crawler (1) - filter EAPOL frames from a directory of capture files.
+   198	binwalk (1)          - tool for searching binary images for embedded files and executable code
+   199	bioradtopgm (1)      - convert a Biorad confocal file into a portable graymap
+   200	bitmap (1)           - bitmap editor and converter utilities for the X Window System
+   201	bleachbit (1)        - Delete unnecessary files from the system
+   202	blkcalc (1)          - Converts between unallocated disk unit numbers and regular disk unit numbers.
+   203	blkcat (1)           - Display the contents of file system data unit in a disk image.
+   204	blkls (1)            - List or output file system data units.
+   205	blkstat (1)          - Display details of a file system data unit (i.e. block or sector)
+   206	bluelog (1)          - Bluetooth Scanner and Logger
+   207	blueman-adapters (1) - an utility to set adapter properties
+   208	blueman-applet (1)   - a tray applet for managing bluetooth
+   209	blueman-manager (1)  - bluetooth device manager
+   210	blueman-sendto (1)   - application for sending files to bluetooth devices
+   211	blueman-services (1) - Configure local bluetooth services
+   212	blueman-tray (1)     - a status icon application for blueman
+   213	bluemoon (1)         - Bluemoon configuration utility
+   214	bluetoothctl (1)     - interactive bluetooth control tool
+   215	bmptopnm (1)         - convert a BMP file into a portable anymap
+   216	bmptoppm (1)         - convert a BMP file into a portable anymap
+   217	bmtoa (1)            - bitmap editor and converter utilities for the X Window System
+   218	bombardment (1)      - Run siege with an ever-increasing number of users
+   219	braa (1)             - Mass SNMP scanner
+   220	broadwayd (1)        - Broadway display server
+   221	brushtopbm (1)       - convert a doodle brush file into a portable bitmap
+   222	brutespray (8)       - Python bruteforce tool
+   223	bsd-mailx (1)        - send and receive mail
+   224	btattach (1)         - attach serial devices to BlueZ stack
+   225	btmgmt (1)           - A command-line interface of BlueZ for management Usage:
+   226	btmon (1)            - Bluetooth monitor
+   227	btrfs (5)            - topics about the BTRFS filesystem (mount options, supported file attributes and other)
+   228	btrfs (8)            - a toolbox to manage btrfs filesystems
+   229	btrfsck (8)          - check or repair a btrfs filesystem
+   230	btrfs-convert (8)    - convert from ext2/3/4 or reiserfs filesystem to btrfs in-place
+   231	btrfs-find-root (8)  - filter to find btrfs root
+   232	btrfs-image (8)      - create/restore an image of the filesystem
+   233	btrfs-map-logical (8) - map btrfs logical extent to physical extent
+   234	btrfs-select-super (8) - overwrite primary superblock with a backup copy
+   235	btrfstune (8)        - tune various filesystem parameters
+   236	btscanner (1)        - ncurses-based scanner for Bluetooth devices
+   237	buddy-ng (1)         - a tool to work with easside-ng
+   238	bundle (1)           - Ruby Dependency Management
+   239	bundle2.7 (1)        - Ruby Dependency Management
+   240	bundler (1)          - Ruby Dependency Management
+   241	bunzip2 (1)          - a block-sorting file compressor, v1.0.8
+   242	busctl (1)           - Introspect the bus
+   243	busybox (1)          - The Swiss Army Knife of Embedded Linux
+   244	bwrap (1)            - container setup utility
+   245	bzcat (1)            - decompresses files to stdout
+   246	bzcmp (1)            - compare bzip2 compressed files
+   247	bzdiff (1)           - compare bzip2 compressed files
+   248	bzegrep (1)          - search possibly bzip2 compressed files for a regular expression
+   249	bzexe (1)            - compress executable files in place
+   250	bzfgrep (1)          - search possibly bzip2 compressed files for a regular expression
+   251	bzgrep (1)           - search possibly bzip2 compressed files for a regular expression
+   252	bzip2 (1)            - a block-sorting file compressor, v1.0.8
+   253	bzip2recover (1)     - recovers data from damaged bzip2 files
+   254	bzless (1)           - file perusal filter for crt viewing of bzip2 compressed text
+   255	bzmore (1)           - file perusal filter for crt viewing of bzip2 compressed text
+   256	c89 (1)              - ANSI (1989) C compiler
+   257	c89-gcc (1)          - ANSI (1989) C compiler
+   258	c99 (1)              - ANSI (1999) C compiler
+   259	c99-gcc (1)          - ANSI (1999) C compiler
+   260	cabextract (1)       - program to extract files from Microsoft cabinet (.cab) archives
+   261	caja (1)             - The MATE File Manager
+   262	caja-actions-config-tool (5) - configure programs to launch from the caja file manager
+   263	caja-actions-new (1) - create new caja actions
+   264	caja-actions-print (1) - print a menu or an action to stdout
+   265	caja-actions-run (1) - execute an action on the specified target
+   266	caja-autorun-software (1) - Autorun Software in Caja
+   267	caja-connect-server (1) - Connect to Server dialog for Caja
+   268	caja-file-management-properties (1) - Caja File Management Preferences
+   269	caja-sendto (1)      - convenience application to send a file via email or instant messenger
+   270	calc_tickadj (1)     - Calculates "optimal" value for tick given ntp drift file.
+   271	canbusload (1)       - manual page for canbusload 2020.11.0-1
+   272	can-calc-bit-timing (1) - manual page for can-calc-bit-timing 2020.11.0-1
+   273	candump (1)          - manual page for candump 2020.11.0-1
+   274	canfdtest (1)        - manual page for canfdtest 2020.11.0-1
+   275	cangen (1)           - manual page for cangen 2020.11.0-1
+   276	cangw (1)            - manual page for cangw 2020.11.0-1
+   277	canlogserver (1)     - manual page for canlogserver 2020.11.0-1
+   278	canplayer (1)        - manual page for canplayer 2020.11.0-1
+   279	cansend (1)          - manual page for cansend 2020.11.0-1
+   280	cansequence (1)      - manual page for cansequence 2020.11.0-1
+   281	cansniffer (1)       - manual page for cansniffer 2020.11.0-1
+   282	capinfos (1)         - Prints information about capture files
+   283	captoinfo (1)        - convert a termcap description into a terminfo description
+   284	captype (1)          - Prints the types of capture files
+   285	cardos-tool (1)      - displays information about Card OS-based security tokens or format them
+   286	cat (1)              - concatenate files and print on the standard output
+   287	catman (8)           - create or update the pre-formatted manual pages
+   288	ccomps (1)           - connected components filter for graphs
+   289	cct (1)              - Coordinate Conversion and Transformation
+   290	ccze (1)             - A robust log colorizer
+   291	ccze-plugin (7)      - A robust log colorizer, plugin infrastructure
+   292	ccze-cssdump (1)     - Dump CCZE color setup into CSS format
+   293	certtool (1)         - GnuTLS certificate tool
+   294	cewl (1)             - custom word list generator
+   295	c++filt (1)          - demangle C++ and Java symbols
+   296	cgi-fcgi (1)         - bridge from CGI to FastCGI
+   297	chage (1)            - change user password expiry information
+   298	changeme (1)         - Default Credential Scanner
+   299	chaosreader (1)      - trace network sessions and export it to html format
+   300	chardet (1)          - universal character encoding detector
+   301	chardetect (1)       - universal character encoding detector
+   302	chattr (1)           - change file attributes on a Linux file system
+   303	chcon (1)            - change file security context
+   304	checkgid (8)         - checks the gid
+   305	cheese (1)           - tool to take pictures and videos from your webcam
+   306	chem (1)             - groff preprocessor for producing chemical structure diagrams
+   307	cherryd3 (1)         - Starts the CherryPy HTTP server as a daemon
+   308	chfn (1)             - change real user name and information
+   309	chgrp (1)            - change group ownership
+   310	chkfont (6)          - checks figlet 2.0 and up font files for format errors
+   311	chmod (1)            - change file mode bits
+   312	chmod (2)            - change permissions of a file
+   313	choom (1)            - display and adjust OOM-killer score.
+   314	chown (1)            - change file owner and group
+   315	chown (2)            - change ownership of a file
+   316	chronic (1)          - runs a command quietly unless it fails
+   317	chrt (1)             - manipulate the real-time attributes of a process
+   318	chsh (1)             - change login shell
+   319	chvt (1)             - change foreground virtual terminal
+   320	cifsdd (8)           - convert and copy a file over SMB
+   321	cifsiostat (1)       - Report CIFS statistics.
+   322	ciptool (1)          - Bluetooth Common ISDN Access Profile (CIP)
+   323	circo (1)            - filter for circular layout of graphs
+   324	cisco-decrypt (1)    - decrypts an obfuscated Cisco vpn client pre-shared key
+   325	cjpeg (1)            - compress an image file to a JPEG file
+   326	ckbcomp (1)          - compile a XKB keyboard description to a keymap suitable for loadkeys or kbdcontrol
+   327	cksum (1)            - checksum and count the bytes in a file
+   328	clang (1)            - the Clang C, C++, and Objective-C compiler
+   329	clang-11 (1)         - the Clang C, C++, and Objective-C compiler
+   330	clang-9 (1)          - the Clang C, C++, and Objective-C compiler
+   331	clear (1)            - clear the terminal screen
+   332	clear_console (1)    - clear the console
+   333	cluster (1)          - find clusters in a graph and augment the graph with this information.
+   334	CLUSTER (7)          - cluster a table according to an index
+   335	clusterdb (1)        - cluster a PostgreSQL database
+   336	cmp (1)              - (unknown subject)
+   337	cmuwmtopbm (1)       - convert a CMU window manager bitmap into a portable bitmap
+   338	codepage (1)         - extract a codepage from an MSDOS codepage file
+   339	col (1)              - filter reverse line feeds from input
+   340	colcrt (1)           - filter nroff output for CRT previewing
+   341	colrm (1)            - remove columns from a file
+   342	column (1)           - columnate lists
+   343	combine (1)          - combine sets of lines from two files using boolean operations
+   344	combinediff (1)      - create a cumulative unified patch from two incremental patches
+   345	comm (1)             - compare two sorted files line by line
+   346	Compose (5)          - X client mappings for multi-key input sequences
+   347	compose (1)          - execute programs via entries in the mailcap file
+   348	composite (1)        - command-line utility to create, edit, compare, convert, or display images
+   349	compress (1)         - compress and expand data
+   350	conjure (1)          - command-line utility to create, edit, compare, convert, or display images
+   351	connect (1)          - connect over SOCKS4/5 proxy
+   352	connect (2)          - initiate a connection on a socket
+   353	connect-proxy (1)    - connect over SOCKS4/5 proxy
+   354	convert (1)          - command-line utility to create, edit, compare, convert, or display images
+   355	corelist (1)         - a commandline frontend to Module::CoreList
+   356	cowpatty (1)         - Brute-force dictionary attack against WPA-PSK
+   357	cp (1)               - copy files and directories
+   358	cpan (1)             - easily interact with CPAN from the command line
+   359	cpan5.32-x86_64-linux-gnu (1) - easily interact with CPAN from the command line
+   360	cpanel_json_xs (1p)  - Cpanel::JSON::XS commandline utility
+   361	cpio (1)             - copy files to and from archives
+   362	cpupower-gui (1)     - Set the scaling frequencies and governor of a CPU
+   363	cramfsswap (1)       - swap endianness of a cram filesystem (cramfs)
+   364	crc32 (1)            - compute CRC-32 checksums for the given files
+   365	createdb (1)         - create a new PostgreSQL database
+   366	createuser (1)       - define a new PostgreSQL user account
+   367	c_rehash (1ssl)      - Create symbolic links to files named by the hash values
+   368	crontab (5)          - tables for driving cron
+   369	crontab (1)          - maintain crontab files for individual users (Vixie Cron)
+   370	crunch (1)           - generate wordlists from a character set
+   371	cryfs (1)            - cryptographic filesystem for the cloud
+   372	cryptoflex-tool (1)  - utility for manipulating Schlumberger Cryptoflex data structures
+   373	cs2cs (1)            - Cartographic coordinate system filter
+   374	cspctl (1)           - Sound Blaster 16 ASP/CSP control program
+   375	csplit (1)           - split a file into sections determined by context lines
+   376	ctstat (8)           - unified linux network statistics
+   377	curl (1)             - transfer a URL
+   378	cut (1)              - remove sections from each line of files
+   379	cvlc (1)             - the VLC media player
+   380	cvt (1)              - calculate VESA CVT mode lines
+   381	cvtsudoers (1)       - convert between sudoers file formats
+   382	danetool (1)         - GnuTLS DANE tool
+   383	dash (1)             - command interpreter (shell)
+   384	dasher (1)           - graphical predictive text entry system
+   385	date (1)             - print or set the system date and time
+   386	dave (1p)            - DAV Explorer
+   387	dbus-cleanup-sockets (1) - clean up leftover sockets in a directory
+   388	dbus-daemon (1)      - Message bus daemon
+   389	dbus-launch (1)      - Utility to start a message bus from a shell script
+   390	dbus-monitor (1)     - debug probe to print message bus messages
+   391	dbus-run-session (1) - start a process as a new D-Bus session
+   392	dbus-send (1)        - Send a message to a message bus
+   393	dbus-update-activation-environment (1) - update environment used for D-Bus session services
+   394	dbus-uuidgen (1)     - Utility to generate UUIDs
+   395	dbwrap_tool (1)      - low level TDB/CTDB manipulation tool using the dbwrap interface
+   396	dc3dd (1)            - convert and copy a file
+   397	dccleancrw (1)       - Canon (CRW) RAW photo file recovery utility
+   398	dcfldd (1)           - enhanced version of dd for forensics and security
+   399	dcfujigreen (1)      - Alternative processing for Fuji RAW images
+   400	dcfujiturn (1)       - Alternative rotation for dcraw processed images
+   401	dcfujiturn16 (1)     - Alternative rotation for dcraw processed images
+   402	dconf (1)            - Simple tool for manipulating a dconf database
+   403	dconf (7)            - A configuration system
+   404	dconf-editor (1)     - Graphical editor for gsettings and dconf
+   405	dcparse (1)          - Extract embedded thumbnail image and print CIFF/TIFF data to screen
+   406	dcraw (1)            - command-line decoder for raw digital photos
+   407	dd (1)               - convert and copy a file
+   408	dd_rescue (1)        - Data recovery and protection tool
+   409	deallocvt (1)        - deallocate unused virtual consoles
+   410	debconf (1)          - run a debconf-using program
+   411	debconf-apt-progress (1) - install packages using debconf to display a progress bar
+   412	debconf-communicate (1) - communicate with debconf
+   413	debconf-copydb (1)   - copy a debconf database
+   414	debconf-escape (1)   - helper when working with debconf's escape capability
+   415	debconf-set-selections (1) - insert new values into the debconf database
+   416	debconf-show (1)     - query the debconf database
+   417	deb-systemd-helper (1p) - subset of systemctl for machines not running systemd
+   418	deb-systemd-invoke (1p) - wrapper around systemctl, respecting policy-rc.d
+   419	dehtmldiff (1)       - get usable diff from an HTML page
+   420	delaunay (1)         - constructs the constrained Delaunay triangulation of the input
+   421	delpart (8)          - tell the kernel to forget about a partition
+   422	delv (1)             - DNS lookup and validation utility
+   423	desktop-file-edit (1) - Installation and edition of desktop files
+   424	desktop-file-install (1) - Installation and edition of desktop files
+   425	desktop-file-validate (1) - Validate desktop entry files
+   426	df (1)               - report file system disk space usage
+   427	dh_autotools-dev_restoreconfig (1) - restore config.sub and config.guess
+   428	dh_autotools-dev_updateconfig (1) - update config.sub and config.guess
+   429	dh_bash-completion (1) - install bash completions for package
+   430	dhcpig (1)           - DHCP exhaustion script using scapy network library
+   431	dh_dkms (1)          - correctly handle DKMS usage by a kernel module package
+   432	dh_installxmlcatalogs (1) - install and register XML catalog files
+   433	dh_numpy3 (1)        - adds Numpy depends to python:Depends substvar
+   434	dh_perl_openssl (1)  - add dependencies required for OpenSSL modules
+   435	dh_python3-ply (1)   - generate versioned dependencies on python3-ply
+   436	diff (1)             - (unknown subject)
+   437	diff3 (1)            - (unknown subject)
+   438	diffimg (1)          - Calculates intersection between two images
+   439	diffstat (1)         - make histogram from diff-output
+   440	dig (1)              - DNS lookup utility
+   441	dijkstra (1)         - single-source distance filter for Graphviz
+   442	dir (1)              - list directory contents
+   443	dirb (1)             - Web Content Scanner
+   444	dirb-gendict (1)     - Generate dictionary incrementally
+   445	dircolors (1)        - color setup for ls
+   446	dirmngr (8)          - CRL and OCSP daemon
+   447	dirmngr-client (1)   - Tool to access the Dirmngr services
+   448	dirname (1)          - strip last component from file name
+   449	dirname (3)          - parse pathname components
+   450	display (1)          - command-line utility to create, edit, compare, convert, or display images
+   451	djpeg (1)            - decompress a JPEG file to an image file
+   452	dmesg (1)            - print or control the kernel ring buffer
+   453	dmitry (1)           - Deepmagic Information Gathering Tool
+   454	dm-tool (1)          - a tool to control the display manager
+   455	dnie-tool (1)        - displays information about DNIe based security tokens
+   456	dns2tcpc (1)         - A tunneling tool that encapsulate TCP traffic over DNS.
+   457	dns2tcpd (1)         - A tunneling tool that encapsulate TCP traffic over DNS.
+   458	dnsdomainname (1)    - show the system's DNS domain name
+   459	dnsenum (1)          - - multithread script to enumerate information on a domain and to discover non-contiguous IP blocks
+   460	dnsmap (1)           - scan for subdomains using bruteforcing techniques
+   461	dnsmap-bulk (1)      - mass scan using dnsmap
+   462	dnstap-read (1)      - print dnstap data in human-readable form
+   463	docbook-to-man (1)   - convert DocBook SGML into roff -man macros
+   464	docutils (1)         - generic command line interface for the docutils package
+   465	domainname (1)       - show or set the system's NIS/YP domain name
+   466	doona (1)            - Network fuzzer forked from bed
+   467	dos2unix (1)         - DOS/Mac to Unix and vice versa text file format converter
+   468	dot (1)              - filter for drawing directed graphs
+   469	dot2gxl (1)          - GXL-GV converters
+   470	dotlockfile (1)      - Utility to manage lockfiles
+   471	dotty (1)            - A Customizable Graph Editor
+   472	dpkg (1)             - package manager for Debian
+   473	Dpkg (3perl)         - module with core variables
+   474	dpkg-architecture (1) - set and determine the architecture for package building
+   475	dpkg-buildflags (1)  - returns build flags to use during package build
+   476	dpkg-buildpackage (1) - build binary or source packages from sources
+   477	dpkg-checkbuilddeps (1) - check build dependencies and conflicts
+   478	dpkg-deb (1)         - Debian package archive (.deb) manipulation tool
+   479	dpkg-distaddfile (1) - add entries to debian/files
+   480	dpkg-divert (1)      - override a package's version of a file
+   481	dpkg-genbuildinfo (1) - generate Debian .buildinfo files
+   482	dpkg-genchanges (1)  - generate Debian .changes files
+   483	dpkg-gencontrol (1)  - generate Debian control files
+   484	dpkg-gensymbols (1)  - generate symbols files (shared library dependency information)
+   485	dpkg-maintscript-helper (1) - works around known dpkg limitations in maintainer scripts
+   486	dpkg-mergechangelogs (1) - 3-way merge of debian/changelog files
+   487	dpkg-name (1)        - rename Debian packages to full package names
+   488	dpkg-parsechangelog (1) - parse Debian changelog files
+   489	dpkg-query (1)       - a tool to query the dpkg database
+   490	dpkg-realpath (1)    - print the resolved pathname with DPKG_ROOT support
+   491	dpkg-scanpackages (1) - create Packages index files
+   492	dpkg-scansources (1) - create Sources index files
+   493	dpkg-shlibdeps (1)   - generate shared library substvar dependencies
+   494	dpkg-source (1)      - Debian source package (.dsc) manipulation tool
+   495	dpkg-split (1)       - Debian package archive split/join tool
+   496	dpkg-statoverride (1) - override ownership and mode of files
+   497	dpkg-trigger (1)     - a package trigger utility
+   498	dpkg-vendor (1)      - queries information about distribution vendors
+   499	dpl4hydra (1)        - Generates a (d)efault (p)assword (l)ist as input for THC hydra
+   500	driftnet (1)         - capture images from network traffic and display them in an X window; optionally, capture audio streams and play them.
+   501	dropdb (1)           - remove a PostgreSQL database
+   502	dropuser (1)         - remove a PostgreSQL user account
+   503	du (1)               - estimate file space usage
+   504	dumpcap (1)          - Dump network traffic
+   505	dumpkeys (1)         - dump keyboard translation tables
+   506	dupemap (1)          - Creates a database of file checksums and uses it to eliminate duplicates
+   507	dvipdf (1)           - Convert TeX DVI file to PDF using ghostscript and dvips
+   508	dwp (1)              - The DWARF packaging utility
+   509	echo (1)             - display a line of text
+   510	edb (1)              - graphical debugger and disassembler for executables
+   511	edgepaint (1)        - edge coloring to disambiguate crossing edges
+   512	edit (1)             - execute programs via entries in the mailcap file
+   513	editcap (1)          - Edit and/or translate the format of capture files
+   514	editdiff (1)         - fix offsets and counts of a hand-edited diff
+   515	editor (1)           - Nano's ANOther editor, inspired by Pico
+   516	editres (1)          - a dynamic resource editor for X Toolkit applications
+   517	egk-tool (1)         - displays information on the German electronic health card (elektronische Gesundheitskarte, eGK)
+   518	egrep (1)            - print lines that match patterns
+   519	eidenv (1)           - utility for accessing visible data from electronic identity cards
+   520	eject (1)            - eject removable media
+   521	elfedit (1)          - update ELF header and program property of ELF files
+   522	enc2xs (1)           - - Perl Encode Module Generator
+   523	encguess (1)         - guess character encodings of files
+   524	enchant-2 (1)        - a spellchecker
+   525	enchant-lsmod-2 (1)  - list provider and dictionary information
+   526	engrampa (1)         - Archive Manager for MATE
+   527	env (1)              - run a program in a modified environment
+   528	envsubst (1)         - substitutes environment variables in shell format strings
+   529	eom (1)              - The Eye of MATE Image Viewer
+   530	eps2eps (1)          - Ghostscript PostScript "distiller"
+   531	epsffit (1)          - fit encapsulated PostScript file (EPSF) into constrained size
+   532	eqn (1)              - format equations for troff or MathML
+   533	eqn2graph (1)        - convert an EQN equation into a cropped image
+   534	erb (1)              - Ruby Templating
+   535	erb2.7 (1)           - Ruby Templating
+   536	errno (1)            - look up errno names and descriptions
+   537	errno (3)            - number of last error
+   538	erubis (1)           - eRuby style template engine for multiple languages
+   539	espdiff (6)          - apply the appropriate transformation to a set of patches
+   540	espeak (1)           - A multi-lingual software speech synthesizer.
+   541	etherape (1)         - graphical network traffic browser
+   542	ettercap (8)         - multipurpose sniffer/content filter for man in the middle attacks
+   543	ettercap-pkexec (8)  - graphical pkexec-based launcher for ettercap
+   544	etterfilter (8)      - Filter compiler for ettercap content filtering engine
+   545	etterlog (8)         - Log analyzer for ettercap log files
+   546	ewfacquire (1)       - acquires data in the EWF format
+   547	ewfacquirestream (1) - acquires data in the EWF format from stdin
+   548	ewfexport (1)        - exports media data stored in EWF files
+   549	ewfinfo (1)          - show meta data stored in EWF files
+   550	ewfmount (1)         - mount data stored in EWF files
+   551	ewfrecover (1)       - exports media data stored in EWF files
+   552	ewfverify (1)        - verifies media data stored in EWF files
+   553	exif (1)             - shows EXIF information in JPEG files
+   554	exifautotran (1)     - Transforms Exif files so that Orientation becomes 1
+   555	exiftool (1p)        - Read and write meta information in files
+   556	expand (1)           - convert tabs to spaces
+   557	expiry (1)           - check and enforce password expiration policy
+   558	expr (1)             - evaluate expressions
+   559	extractres (1)       - filter to extract resources from a PostScript document
+   560	extundelete (1)      - utility to undelete files from an ext3 or ext4 partition.
+   561	eyuvtoppm (1)        - convert a Berkeley YUV file to a portable pixmap file
+   562	fab-cewl (1)         - extract metadata from files
+   563	factor (1)           - factor numbers
+   564	faillog (5)          - login failure logging file
+   565	faillog (8)          - display faillog records or set login failure limits
+   566	faked-sysv (1)       - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+   567	faked-tcp (1)        - daemon that remembers fake ownership/permissions of files manipulated by fakeroot processes.
+   568	fakeroot (1)         - run a command in an environment faking root privileges for file manipulation
+   569	fakeroot-sysv (1)    - run a command in an environment faking root privileges for file manipulation
+   570	fakeroot-tcp (1)     - run a command in an environment faking root privileges for file manipulation
+   571	fallocate (1)        - preallocate or deallocate space to a file
+   572	fallocate (2)        - manipulate file space
+   573	false (1)            - do nothing, unsuccessfully
+   574	fastjar (1)          - archive tool for Java archives
+   575	fcat (1)             - Output the contents of a file based on its name.
+   576	fc-cache (1)         - build font information cache files
+   577	fc-cat (1)           - read font information cache files
+   578	fc-conflist (1)      - Show the ruleset files information on the system
+   579	fcgistarter (8)      - Start a FastCGI program
+   580	fc-list (1)          - list available fonts
+   581	fc-match (1)         - match available fonts
+   582	fc-pattern (1)       - parse and show pattern
+   583	fc-query (1)         - query font files
+   584	fcrackzip (1)        - a Free/Fast Zip Password Cracker
+   585	fcrackzipinfo (1)    - display zip information
+   586	fc-scan (1)          - scan font files or directories
+   587	fc-validate (1)      - validate font files
+   588	fdp (1)              - filter for drawing undirected graphs
+   589	ffind (1)            - Finds the name of the file or directory using a given inode
+   590	fgconsole (1)        - print the number of the active VT.
+   591	fgrep (1)            - print lines that match patterns
+   592	fiascotopnm (1)      - Convert compressed FIASCO image to PGM, or PPM
+   593	figlet (6)           - display large characters made up of ordinary screen characters
+   594	figlet-figlet (6)    - display large characters made up of ordinary screen characters
+   595	figlist (6)          - lists figlet fonts and control files
+   596	fiked (1)            - a fake IKE PSK+XAUTH daemon based on vpnc
+   597	filan (1)            - Multipurpose relay (SOcket CAT)
+   598	file (1)             - determine file type
+   599	FILE (3)             - overview of system data types
+   600	filterdiff (1)       - extract or exclude diffs from a diff file
+   601	fincore (1)          - count pages of file contents in core
+   602	find (1)             - search for files in a directory hierarchy
+   603	findmnt (8)          - find a filesystem
+   604	findrule (1p)        - command line wrapper to File::Find::Rule
+   605	firefox-esr (1)      - a Web browser for X11 derived from the Mozilla browser
+   606	fitstopnm (1)        - convert a FITS file into a portable anymap
+   607	fiwalk (1)           - print the filesystem statistics and exit
+   608	fixcvsdiff (1)       - fix problematic diff files
+   609	fixdlsrps (1)        - filter to fix DviLaser/PS documents to work with PSUtils
+   610	fixfmps (1)          - filter to fix Framemaker documents so PSUtils work
+   611	fixpsditps (1)       - filter to fix Transcript psdit documents so PSUtils work
+   612	fixpspps (1)         - filter to fix PSPrint PostScript so PSUtils work
+   613	fixscribeps (1)      - filter to fix Scribe documents so PSUtils work
+   614	fixtpps (1)          - filter to fix Tpscript documents to work with PSUtils
+   615	fixwfwps (1)         - filter to fix Word for Windows documents so PSUtils work
+   616	fixwpps (1)          - filter to fix WP documents so PSUtils work
+   617	fixwwps (1)          - filter to fix Windows Write documents so PSUtils work
+   618	flac (1)             - Free Lossless Audio Codec
+   619	flipdiff (1)         - exchange the order of two incremental patches
+   620	flock (1)            - manage locks from shell scripts
+   621	flock (2)            - apply or remove an advisory lock on an open file
+   622	fls (1)              - List file and directory names in a disk image.
+   623	fmt (1)              - simple optimal text formatter
+   624	fold (1)             - wrap each input line to fit in specified width
+   625	fonttosfnt (1)       - Wrap a bitmap font in a sfnt (TrueType) wrapper
+   626	foremost (8)         - Recover files using their headers, footers, and data structures
+   627	fping (8)            - send ICMP ECHO_REQUEST packets to network hosts
+   628	fping6 (8)           - backwards compatibility with fping below version 4.0
+   629	free (1)             - Display amount of free and used memory in the system
+   630	free (3)             - allocate and free dynamic memory
+   631	fsapfsinfo (1)       - determines information about an Apple File System (APFS)
+   632	fsapfsmount (1)      - mounts an Apple File System (APFS) volume
+   633	fsstat (1)           - Display general details of a file system
+   634	fstopgm (1)          - convert a Usenix FaceSaver(tm) file into a portable graymap
+   635	funzip (1)           - filter for extracting from a ZIP archive in a pipe
+   636	fuser (1)            - identify processes using files or sockets
+   637	fusermount (1)       - mount and unmount FUSE filesystems
+   638	fusermount3 (1)      - mount and unmount FUSE filesystems
+   639	g3topbm (1)          - convert a Group 3 fax file into a portable bitmap
+   640	galleta (1)          - tool to extract information from MSIE cookie files
+   641	gapplication (1)     - D-Bus application launcher
+   642	gatttool (1)         - tool for Bluetooth Low Energy device
+   643	gawk (1)             - pattern scanning and processing language
+   644	gc (1)               - count graph components
+   645	gcc-ar (1)           - a wrapper around ar adding the --plugin option
+   646	gcc-ar-10 (1)        - a wrapper around ar adding the --plugin option
+   647	gcc-nm (1)           - a wrapper around nm adding the --plugin option
+   648	gcc-nm-10 (1)        - a wrapper around nm adding the --plugin option
+   649	gcc-ranlib (1)       - a wrapper around ranlib adding the --plugin option
+   650	gcc-ranlib-10 (1)    - a wrapper around ranlib adding the --plugin option
+   651	gcore (1)            - Generate core files for running processes
+   652	gdbus (1)            - Tool for working with D-Bus objects
+   653	gdebi (1)            - Simple tool to install deb files
+   654	gdebi-gtk (1)        - Simple tool to install deb files
+   655	gdiffmk (1)          - mark differences between groff/nroff/troff files
+   656	gdk-pixbuf-csource (1) - C code generation utility for GdkPixbuf images
+   657	gdk-pixbuf-pixdata (1) - GDK Pixbuf library
+   658	geany (1)            - a small and lightweight IDE
+   659	gem2.7 (1)           - frontend to RubyGems, the Ruby package manager
+   660	gemtopbm (1)         - convert a GEM .img file into a portable anymap
+   661	gemtopnm (1)         - convert a GEM .img file into a portable anymap
+   662	gencat (1)           - Generate message catalog
+   663	genpmk (1)           - WPA-PSK precomputation attack
+   664	geod (1)             - Geodesic computations
+   665	geoipupdate (1)      - GeoIP2, GeoLite2, and GeoIP Legacy Update Program
+   666	geqn (1)             - format equations for troff or MathML
+   667	GET (1p)             - Simple command line user agent
+   668	getafm (1)           - create an AFM file for a PostScript font.
+   669	getconf (1)          - Query system configuration variables
+   670	getent (1)           - get entries from Name Service Switch libraries
+   671	getfattr (1)         - get extended attributes of filesystem objects
+   672	getkeycodes (8)      - print kernel scancode-to-keycode mapping table
+   673	getopt (1)           - parse command options (enhanced)
+   674	getopt (3)           - Parse command-line options
+   675	gettext (1)          - translate message
+   676	gettext (3)          - translate message
+   677	gettextize (1)       - install or upgrade gettext infrastructure
+   678	ghostscript (1)      - Ghostscript (PostScript and PDF language interpreter and previewer)
+   679	gids-tool (1)        - smart card utility for GIDS cards
+   680	gie (1)              - The Geospatial Integrity Investigation Environment
+   681	giftopnm (1)         - convert a GIF file into a portable anymap
+   682	gimp (1)             - an image manipulation and paint program.
+   683	gimp-2.10 (1)        - an image manipulation and paint program.
+   684	gimp-console (1)     - an image manipulation and paint program.
+   685	gimp-console-2.10 (1) - an image manipulation and paint program.
+   686	gio (1)              - GIO commandline tool
+   687	gio-querymodules (1) - GIO module cache creation
+   688	git (1)              - the stupid content tracker
+   689	Git (3pm)            - Perl interface to the Git version control system
+   690	git-receive-pack (1) - Receive what is pushed into the repository
+   691	git-shell (1)        - Restricted login shell for Git-only SSH access
+   692	git-upload-archive (1) - Send archive back to git-archive
+   693	git-upload-pack (1)  - Send objects packed back to git-fetch-pack
+   694	glib-compile-schemas (1) - GSettings schema compiler
+   695	glilypond (1)        - integrate lilypond parts into groff
+   696	glxdemo (1)          - a demonstration of the GLX functions
+   697	glxgears (1)         - ``gears'' demo for GLX
+   698	glxheads (1)         - exercise multiple GLX connections
+   699	glxinfo (1)          - show information about the GLX implementation
+   700	gm (1)               - command-line utility to create, edit, compare, convert, or display images
+   701	gmake (1)            - GNU make utility to maintain groups of programs
+   702	gml2gv (1)           - GML-DOT converters
+   703	gnome-help (1)       - browse system documentation
+   704	gnome-keyring (1)    - The gnome-keyring commandline tool
+   705	gnome-keyring-3 (1)  - The gnome-keyring commandline tool
+   706	gnome-keyring-daemon (1) - The gnome-keyring daemon
+   707	gnome-www-browser (1) - a Web browser for X11 derived from the Mozilla browser
+   708	gnutls-cli (1)       - GnuTLS client
+   709	gnutls-cli-debug (1) - GnuTLS debug client
+   710	gnutls-serv (1)      - GnuTLS server
+   711	go (1)               - tool for managing Go source code
+   712	go-packages (7)      - tool for managing Go source code
+   713	gocryptfs (1)        - create or mount an encrypted filesystem
+   714	gocryptfs-xray (1)   - examine gocryptfs-related data
+   715	gofmt (1)            - format Go programs
+   716	goid-tool (1)        - ???
+   717	gold (1)             - The GNU ELF linker
+   718	gouldtoppm (1)       - convert Gould scanner file into a portable pixmap
+   719	gpa (1)              - graphical frontend for the GNU Privacy Guard
+   720	gpasswd (1)          - administer /etc/group and /etc/gshadow
+   721	gperl (1)            - groff preprocessor for Perl parts in roff files
+   722	gpg (1)              - OpenPGP encryption and signing tool
+   723	gpg2 (1)             - OpenPGP encryption and signing tool
+   724	gpg-agent (1)        - Secret key management for GnuPG
+   725	gpgcompose (1)       - Generate a stream of OpenPGP packets
+   726	gpgconf (1)          - Modify .gnupg home directories
+   727	gpg-connect-agent (1) - Communicate with a running agent
+   728	gpgparsemail (1)     - Parse a mail message into an annotated format
+   729	gpgsm (1)            - CMS encryption and signing tool
+   730	gpgsplit (1)         - Split an OpenPGP message into packets
+   731	gpgtar (1)           - Encrypt or sign files into an archive
+   732	gpgv (1)             - Verify OpenPGP signatures
+   733	gpg-wks-server (1)   - Server providing the Web Key Service
+   734	gpg-zip (1)          - encrypt or sign files into an archive
+   735	gpic (1)             - compile pictures for troff or TeX
+   736	gpinyin (1)          - use Hanyu Pinyin Chinese in roff
+   737	gprof (1)            - display call graph profile data
+   738	grap2graph (1)       - convert a GRAP diagram into a cropped image
+   739	graphml2gv (1)       - GRAPHML-DOT converter
+   740	greenbone-nvt-sync (8) - updates the OpenVAS NVTs from Greenbone Security Feed or Community Feed
+   741	grep (1)             - print lines that match patterns
+   742	grep-aptavail (1)    - grep Debian control files
+   743	grep-available (1)   - grep Debian control files
+   744	grep-dctrl (1)       - grep Debian control files
+   745	grep-debtags (1)     - grep Debian control files
+   746	grepdiff (1)         - show files modified by a diff containing a regex
+   747	grepjar (1)          - search files in a jar file for a pattern
+   748	grep-status (1)      - grep Debian control files
+   749	gresource (1)        - GResource tool
+   750	grn (1)              - groff preprocessor for gremlin files
+   751	grodvi (1)           - convert groff output to TeX DVI format
+   752	groff (1)            - front-end for the groff document formatting system
+   753	groff (7)            - a short reference for the GNU roff language
+   754	groffer (1)          - display groff files and man pages on X and tty
+   755	grog (1)             - guess options for a following groff command
+   756	grolbp (1)           - groff driver for Canon CAPSL printers (LBP-4 and LBP-8 series laser printers)
+   757	grolj4 (1)           - groff driver for HP LaserJet 4 family
+   758	gropdf (1)           - PDF driver for groff
+   759	grops (1)            - PostScript driver for groff
+   760	grotty (1)           - groff driver for typewriter-like devices
+   761	groups (1)           - print the groups a user is in
+   762	grub-editenv (1)     - edit GRUB environment block
+   763	grub-file (1)        - check file type
+   764	grub-fstest (1)      - debug tool for GRUB filesystem drivers
+   765	grub-glue-efi (1)    - generate a fat binary for EFI
+   766	grub-kbdcomp (1)     - generate a GRUB keyboard layout file
+   767	grub-menulst2cfg (1) - transform legacy menu.lst into grub.cfg
+   768	grub-mkfont (1)      - make GRUB font files
+   769	grub-mkimage (1)     - make a bootable image of GRUB
+   770	grub-mklayout (1)    - generate a GRUB keyboard layout file
+   771	grub-mknetdir (1)    - prepare a GRUB netboot directory.
+   772	grub-mkpasswd-pbkdf2 (1) - generate hashed password for GRUB
+   773	grub-mkrelpath (1)   - make a system path relative to its root
+   774	grub-mkrescue (1)    - make a GRUB rescue image
+   775	grub-mkstandalone (1) - make a memdisk-based GRUB image
+   776	grub-mount (1)       - export GRUB filesystem with FUSE
+   777	grub-render-label (1) - generate a .disk_label for Apple Macs.
+   778	grub-script-check (1) - check grub.cfg for syntax errors
+   779	grub-syslinux2cfg (1) - transform syslinux config into grub.cfg
+   780	gs (1)               - Ghostscript (PostScript and PDF language interpreter and previewer)
+   781	gsbj (1)             - Format and print text for BubbleJet printer using ghostscript
+   782	gsdj (1)             - Format and print text for DeskJet printer using ghostscript
+   783	gsdj500 (1)          - Format and print text for DeskJet 500 BubbleJet using ghostscript
+   784	gsettings (1)        - GSettings configuration tool
+   785	gslj (1)             - Format and print text for LaserJet printer using ghostscript
+   786	gslp (1)             - Format and print text using ghostscript
+   787	gsnd (1)             - Run ghostscript (PostScript and PDF engine) without display
+   788	gtbl (1)             - format tables for troff
+   789	gtf (1)              - calculate VESA GTF mode lines
+   790	gtk-builder-tool (1) - GtkBuilder file utility
+   791	gtk-encode-symbolic-svg (1) - Symbolic icon conversion utility
+   792	gtkhash (1)          - A GTK+ utility for computing checksums and more
+   793	gtk-launch (1)       - Launch an application
+   794	gtk-query-settings (1) - Utility to print name and value of all GtkSettings properties
+   795	gtk-update-icon-cache (1) - Icon theme caching utility
+   796	gts2dxf (1)          - converts a GTS file to DXF format.
+   797	gts2oogl (1)         - converts a GTS file to OOGL file format (Geomview).
+   798	gts2stl (1)          - converts a GTS file to STL format
+   799	gts2xyz (1)          - samples a GTS file on a regular grid at intervals DX.
+   800	gtscheck (1)         - checks that a surface defines a closed, orientable non self-intersecting manifold.
+   801	gtscompare (1)       - compare two GTS files.
+   802	gts-config (1)       - defines values for programs using gts.
+   803	gtstemplate (1)      - generates of a template used to create new object classes.
+   804	gufw (8)             - Graphic user interface for managing ufw
+   805	gunzip (1)           - compress or expand files
+   806	guymager (1)         - a forensic acquisition program
+   807	gv2gml (1)           - GML-DOT converters
+   808	gv2gxl (1)           - GXL-GV converters
+   809	gvcolor (1)          - flow colors through a ranked digraph
+   810	gvgen (1)            - generate graphs
+   811	gvmap (1)            - find clusters and create a geographical map highlighting clusters.
+   812	gvmap.sh (1)         - pipeline for running gvmap
+   813	gvm-manage-certs (1) - manage certificate infrastructure for a GVM installation
+   814	gvpack (1)           - merge and pack disjoint graphs
+   815	gvpr (1)             - graph pattern scanning and processing language
+   816	gxditview (1)        - display groff intermediate output files
+   817	gxl2dot (1)          - GXL-GV converters
+   818	gxl2gv (1)           - GXL-GV converters
+   819	gzexe (1)            - compress executable files in place
+   820	gzip (1)             - compress or expand files
+   821	h2ph (1)             - convert .h C header files to .ph Perl header files
+   822	h2xs (1)             - convert .h C header files to Perl extensions
+   823	hackrf_cpldjtag (1)  - program CPLD
+   824	hackrf_info (1)      - probe device and show configuration
+   825	hackrf_spiflash (1)  - program Flash
+   826	hackrf_transfer (1)  - file based transmit and receive sdr
+   827	hashcat (1)          - Advanced CPU-based password recovery utility
+   828	hashdeep (1)         - Compute, compare, or audit multiple message digests
+   829	hashid (7)           - Identify the different types of hashes used to encrypt data
+   830	hattrib (1)          - change HFS file or directory attributes
+   831	hcd (1)              - change working HFS directory
+   832	hciattach (1)        - attach serial devices via UART HCI to BlueZ stack
+   833	hciconfig (1)        - configure Bluetooth devices
+   834	hcidump (1)          - Parse HCI data
+   835	hcitool (1)          - configure Bluetooth connections
+   836	hcopy (1)            - copy files from or to an HFS volume
+   837	hcxdumptool (1)      - hcx tools set-N
+   838	hcxessidtool (1)     - hcx tools set-N
+   839	hcxhash2cap (1)      - hcx tools set-N
+   840	hcxhashcattool (1)   - hcx tools set-N
+   841	hcxhashtool (1)      - hcx tools set-N
+   842	hcxmactool (1)       - hcx tools set-N
+   843	hcxpcapngtool (1)    - hcx tools set-N
+   844	hcxpcaptool (1)      - hcx tools set-N
+   845	hcxpioff (1)         - hcx tools set-N
+   846	hcxpmkidtool (1)     - hcx tools set-N
+   847	hcxpsktool (1)       - hcx tools set-N
+   848	hcxwltool (1)        - hcx tools set-N
+   849	hd (1)               - display file contents in hexadecimal, decimal, octal, or ascii
+   850	hd (4)               - MFM/IDE hard disk devices
+   851	hdel (1)             - delete both forks of an HFS file
+   852	hdir (1)             - display an HFS directory in long format
+   853	head (1)             - output the first part of files
+   854	HEAD (1p)            - Simple command line user agent
+   855	helpztags (1)        - generate the help tags file for directory
+   856	hex2hcd (1)          - Broadcom Bluetooth firmware converter
+   857	hexdump (1)          - display file contents in hexadecimal, decimal, octal, or ascii
+   858	hfind (1)            - Lookup a hash value in a hash database
+   859	hformat (1)          - create a new HFS filesystem and make it current
+   860	hipstopgm (1)        - convert a HIPS file into a portable graymap
+   861	hls (1)              - list files in an HFS directory
+   862	hmkdir (1)           - create a new HFS directory
+   863	hmount (1)           - introduce a new HFS volume and make it current
+   864	host (1)             - DNS lookup utility
+   865	hostid (1)           - print the numeric identifier for the current host
+   866	hostname (5)         - Local hostname configuration file
+   867	hostname (1)         - show or set the system's host name
+   868	hostname (7)         - hostname resolution description
+   869	hostnamectl (1)      - Control the system hostname
+   870	hpftodit (1)         - create font description files for use with groff -Tlj4
+   871	hpwd (1)             - print the full path to the current HFS working directory
+   872	hrename (1)          - rename or move an HFS file or directory
+   873	hrmdir (1)           - remove an empty HFS directory
+   874	htcacheclean (8)     - Clean up the disk cache
+   875	htdbm (1)            - Manipulate DBM password databases
+   876	htdigest (1)         - manage user files for digest authentication
+   877	html2dic (1)         - Dump word dictionary from html input file
+   878	htop (1)             - interactive process viewer
+   879	htpasswd (1)         - Manage user files for basic authentication
+   880	humount (1)          - remove an HFS volume from the list of known volumes
+   881	hvol (1)             - display or change the current HFS volume
+   882	hwloc-annotate (1)   - Modify attributes in a XML topology
+   883	hwloc-bind (1)       - Launch a command that is bound to specific processors and/or memory, or consult the binding of an existing program
+   884	hwloc-calc (1)       - Operate on cpu mask strings and objects
+   885	hwloc-compress-dir (1) - Compress a directory of XML topologies
+   886	hwloc-diff (1)       - Compute differences between two XML topologies
+   887	hwloc-distrib (1)    - Build a number of cpu masks distributed on the system
+   888	hwloc-gather-cpuid (1) - Dumps the relevant x86 cpuid values for later (possibly offline) usage
+   889	hwloc-gather-topology (1) - Saves the relevant Linux and x86 topology files and the lstopo textual and XML outputs for later (possibly offline) usage
+   890	hwloc-info (1)       - Show some information about some objects or about a topology or about support features
+   891	hwloc-ls (1)         - Show the topology of the system
+   892	hwloc-patch (1)      - Apply a topology difference to an existing XML topology
+   893	hwloc-ps (1)         - List currently-running processes or threads that are bound
+   894	hydra (1)            - a very fast network logon cracker which supports many different services
+   895	hydra-wizard (1)     - Wizard to use hydra from command line
+   896	i386 (8)             - change reported architecture in new program environment and/or set personality flags
+   897	iasecc-tool (1)      - displays information about IAS/ECC card
+   898	icat (1)             - Output the contents of a file based on its inode number.
+   899	iceauth (1)          - ICE authority file utility
+   900	ico (1)              - animate an icosahedron or other polyhedron
+   901	icontopbm (1)        - convert a Sun icon into a portable bitmap
+   902	iconv (1)            - convert text from one character encoding to another
+   903	iconv (3)            - perform character set conversion
+   904	id (1)               - print real and effective user and group IDs
+   905	identify (1)         - command-line utility to create, edit, compare, convert, or display images
+   906	iecset (1)           - Set or dump IEC958 status bits
+   907	ifdata (1)           - get network interface info without parsing ifconfig output
+   908	ifind (1)            - Find the meta-data structure that has allocated a given disk unit or file name.
+   909	ifnames (1)          - Extract CPP conditionals from a set of files
+   910	ifne (1)             - Run command if the standard input is not empty
+   911	ike-scan (1)         - Discover and fingerprint IKE hosts (IPsec VPN servers)
+   912	ilbmtoppm (1)        - convert an ILBM file into a portable pixmap
+   913	ils (1)              - List inode information
+   914	imagetops (1)        - generic image to ps filter
+   915	img_cat (1)          - Output contents of an image file.
+   916	img_stat (1)         - Display details of an image file
+   917	imgtoppm (1)         - convert an Img-whatnot file into a portable pixmap
+   918	import (1)           - command-line utility to create, edit, compare, convert, or display images
+   919	includeres (1)       - filter to include resources in a PostScript document
+   920	indxbib (1)          - make inverted index for bibliographic databases
+   921	inetsim (1)          - INetSim is a suite for simulating common internet services
+   922	infocmp (1)          - compare or print out terminfo descriptions
+   923	infotocap (1)        - convert a terminfo description into a termcap description
+   924	inspectrum (1)       - tool for visualising captured radio signals
+   925	install (1)          - copy files and set attributes
+   926	install-menu (1)     - Process a menu method and generate the menu files for a window manager or a menu-aware application.
+   927	instant (1)          - manipulates ESIS from parsed SGML instance
+   928	instmodsh (1)        - A shell to examine installed modules
+   929	intel-virtual-output (4) - Utility for connecting the Integrated Intel GPU to discrete outputs
+   930	interdiff (1)        - show differences between two diff files
+   931	intltool-extract (8) - generate header files which can be read by gettext
+   932	intltoolize (8)      - copy intltool related files to software package
+   933	intltool-merge (8)   - merge translated strings into various types of file
+   934	intltool-prepare (8) - Prepare software to make use of intltool
+   935	intltool-update (8)  - updates PO template file and merge translations with it
+   936	invgeod (1)          - Geodesic computations
+   937	invproj (1)          - Cartographic projection filter
+   938	inxi (1)             - Command line system information script for console and IRC
+   939	ionice (1)           - set or get process I/O scheduling class and priority
+   940	iostat (1)           - Report Central Processing Unit (CPU) statistics and input/output statistics for devices and partitions.
+   941	ip (8)               - show / manipulate routing, network devices, interfaces and tunnels
+   942	ip (7)               - Linux IPv4 protocol implementation
+   943	ipcmk (1)            - make various IPC resources
+   944	ipcrm (1)            - remove certain IPC resources
+   945	ipcs (1)             - show information on IPC facilities
+   946	ipdb3 (1)            - standalone IPython-based Python 3 debugger
+   947	iptables-xml (1)     - Convert iptables-save format to XML
+   948	ipv4calc (1p)        - Calculates IPv4 elements from an address.
+   949	ipython3 (1)         - Tools for Interactive Computing in Python.
+   950	irb (1)              - Interactive Ruby Shell
+   951	irb2.7 (1)           - Interactive Ruby Shell
+   952	ischroot (1)         - detect if running in a chroot
+   953	isotpdump (1)        - manual page for isotpdump 2020.11.0-1
+   954	isotpperf (1)        - manual page for isotpperf 2020.11.0-1
+   955	isotprecv (1)        - manual page for isotprecv 2020.11.0-1
+   956	isotpsend (1)        - manual page for isotpsend 2020.11.0-1
+   957	isotpserver (1)      - manual page for isotpserver 2020.11.0-1
+   958	isotpsniffer (1)     - manual page for isotpsniffer 2020.11.0-1
+   959	isotptun (1)         - manual page for isotptun 2020.11.0-1
+   960	ispell-wrapper (1)   - smart wrapper for ispell
+   961	istat (1)            - Display details of a meta-data structure (i.e. inode)
+   962	isutf8 (1)           - check whether files are valid UTF-8
+   963	ivstools (1)         - extract IVs from a pcap file or merges several .ivs files into one
+   964	j1939acd (1)         - manual page for j1939acd 2020.11.0-1
+   965	j1939cat (1)         - manual page for j1939cat 2020.11.0-1
+   966	j1939spy (1)         - manual page for j1939spy 2020.11.0-1
+   967	j1939sr (1)          - manual page for j1939sr 2020.11.0-1
+   968	jar (1)              - Manipulates Java Archive (JAR) files.
+   969	jardetector (1)      - binfmt helper to check if a zip/jar file contains a MANIFEST.
+   970	jarsigner (1)        - Signs and verifies Java Archive (JAR) files.
+   971	jarwrapper (1)       - wrapper script to run jar files via binfmt.
+   972	java (1)             - Launches a Java application.
+   973	javac (1)            - Reads Java class and interface definitions and compiles them into bytecode and class files.
+   974	javadoc (1)          - Generates HTML pages of API documentation from Java source files.
+   975	javap (1)            - Disassembles one or more class files.
+   976	jcat (1)             - Show the contents of a block in the file system journal.
+   977	jcmd (1)             - Sends diagnostic command requests to a running Java Virtual Machine (JVM).
+   978	jconsole (1)         - Starts a graphical console that lets you monitor and manage Java applications.
+   979	jdb (1)              - Finds and fixes bugs in Java platform programs.
+   980	jdeps (1)            - Java class dependency analyzer.
+   981	jinfo (1)            - Generates configuration information. This command is experimental and unsupported.
+   982	jjs (1)              - Invokes the Nashorn engine.
+   983	jls (1)              - List the contents of a file system journal
+   984	jmap (1)             - Prints shared object memory maps or heap memory details for a process, core file, or remote debug server. This command is experimental and unsupported.
+   985	john (8)             - a tool to find weak passwords of your users
+   986	join (1)             - join lines of two files on a common field
+   987	join-dctrl (1)       - perform relational join on data in dctrl format
+   988	journalctl (1)       - Query the systemd journal
+   989	jpackage (1)         - tool for packaging self-contained Java applications.
+   990	jpegexiforient (1)   - reads or writes the Exif Orientation Tag
+   991	jpeg_extract (1)     - jpeg extractor
+   992	jpegtopnm (1)        - convert JPEG/JFIF file to portable pixmap or graymap
+   993	jpegtran (1)         - lossless transformation of JPEG files
+   994	jps (1)              - Lists the instrumented Java Virtual Machines (JVMs) on the target system. This command is experimental and unsupported.
+   995	jrunscript (1)       - Runs a command-line script shell that supports interactive and batch modes. This command is experimental and unsupported.
+   996	js (1)               - server-side JavaScript runtime
+   997	json_pp (1)          - JSON::PP command utility
+   998	jstack (1)           - Prints Java thread stack traces for a Java process, core file, or remote debug server. This command is experimental and unsupported.
+   999	jstat (1)            - Monitors Java Virtual Machine (JVM) statistics. This command is experimental and unsupported.
+  1000	jstatd (1)           - Monitors Java Virtual Machines (JVMs) and enables remote monitoring tools to attach to JVMs. This command is experimental and unsupported.
+  1001	kbdinfo (1)          - obtain information about the status of a console
+  1002	kbd_mode (1)         - report or set the keyboard mode
+  1003	kbuildsycoca5 (8)    - Rebuilds the KService desktop file system configuration cache
+  1004	kbxutil (1)          - List, export, import Keybox data
+  1005	kernel-install (8)   - Add and remove kernel and initrd images to and from /boot
+  1006	keyctl (1)           - key management facility control
+  1007	keyctl (2)           - manipulate the kernel's key management facility
+  1008	keyring (1)          - Python-Keyring command-line utility
+  1009	keytool (1)          - Manages a keystore (database) of cryptographic keys, X.509 certificate chains, and trusted certificates.
+  1010	kill (1)             - send a signal to a process
+  1011	kill (2)             - send signal to a process
+  1012	killall (1)          - kill processes by name
+  1013	Proc::Killall (3pm)  - Kill all instances of a process by pattern matching the command-line
+  1014	kmod (8)             - Program to manage Linux Kernel modules
+  1015	koi8rxterm (1)       - X terminal emulator for KOI8-R environments
+  1016	kstats (1)           - show statistical FMS algorithm votes for an ivs dump and a specified WEP key
+  1017	kwallet-query (1)    - KDE Wallet command-line manipulation tool
+  1018	l2ping (1)           - Send L2CAP echo request and receive answer
+  1019	l2test (1)           - L2CAP testing tool
+  1020	lame (1)             - create mp3 audio files
+  1021	laptop-detect (1)    - attempt to detect a laptop
+  1022	last (1)             - show a listing of last logged in users
+  1023	lastb (1)            - show a listing of last logged in users
+  1024	lastlog (8)          - reports the most recent login of all users or of a given user
+  1025	lcf (1)              - Determine which of the historical versions of a config is installed
+  1026	lckdo (1)            - run a program with a lock held
+  1027	ld (1)               - The GNU linker
+  1028	ldapadd (1)          - LDAP modify entry and LDAP add entry tools
+  1029	ldapcompare (1)      - LDAP compare tool
+  1030	ldapdelete (1)       - LDAP delete entry tool
+  1031	ldapexop (1)         - issue LDAP extended operations
+  1032	ldapmodify (1)       - LDAP modify entry and LDAP add entry tools
+  1033	ldapmodrdn (1)       - LDAP rename entry tool
+  1034	ldappasswd (1)       - change the password of an LDAP entry
+  1035	ldapsearch (1)       - LDAP search tool
+  1036	ldapurl (1)          - LDAP URL formatting tool
+  1037	ldapwhoami (1)       - LDAP who am i? tool
+  1038	ld.bfd (1)           - The GNU linker
+  1039	ldd (1)              - print shared object dependencies
+  1040	ld.gold (1)          - The GNU ELF linker
+  1041	ldrdf (1)            - link RDOFF objects and libraries produced by rdflib(1)
+  1042	leaftoppm (1)        - convert Interleaf image format to a portable anymap
+  1043	lefty (1)            - A Programmable Graphics Editor
+  1044	less (1)             - opposite of more
+  1045	lessecho (1)         - expand metacharacters
+  1046	lessfile (1)         - "input preprocessor" for less.
+  1047	lesskey (1)          - specify key bindings for less
+  1048	lesspipe (1)         - "input preprocessor" for less.
+  1049	lexgrog (1)          - parse header information in man pages
+  1050	lft (1)              - print the route packets trace to network host
+  1051	lft.db (1)           - print the route packets trace to network host
+  1052	libnetcfg (1)        - configure libnet
+  1053	libreoffice (1)      - LibreOffice office suite
+  1054	libtoolize (1)       - Prepare a package to use libtool
+  1055	libwacom-list-local-devices (1) - utility to list tablet devices
+  1056	link (1)             - call the link function to create a link to a file
+  1057	link (2)             - make a new name for a file
+  1058	links (1)            - lynx-like alternative character mode WWW browser
+  1059	lintian (1)          - Static analysis tool for Debian packages
+  1060	lintian-annotate-hints (1) - give detailed information about Lintian's error tags
+  1061	lintian-explain-tags (1) - offer more information about Lintian's tags
+  1062	lintian-info (1)     - give detailed information about Lintian's error tags
+  1063	linux32 (1)          - change reported architecture in new program environment and/or set personality flags
+  1064	linux64 (1)          - change reported architecture in new program environment and/or set personality flags
+  1065	linux-check-removal (1) - check whether removal of a kernel is safe
+  1066	linux-update-symlinks (1) - maintain symlinks to default kernel and initramfs
+  1067	linux-version (1)    - operate on Linux kernel version strings
+  1068	lispmtopgm (1)       - convert a Lisp Machine bitmap file into pgm format
+  1069	listres (1)          - list resources in widgets
+  1070	lkbib (1)            - search bibliographic databases
+  1071	lli-9 (1)            - manual page for lli 9
+  1072	llvm-dwarfdump-9 (1) - manual page for llvm-dwarfdump 9
+  1073	llvm-mc-9 (1)        - manual page for llvm-mc 9
+  1074	llvm-objdump-9 (1)   - manual page for llvm-objdump 9
+  1075	llvm-ranlib-9 (1)    - manual page for llvm-ranlib 9
+  1076	llvm-rtdyld-9 (1)    - manual page for llvm-rtdyld 9
+  1077	llvm-size-9 (1)      - manual page for llvm-size 9
+  1078	ln (1)               - make links between files
+  1079	lneato (1)           - A Customizable Graph Editor
+  1080	lnstat (8)           - unified linux network statistics
+  1081	loadkeys (1)         - load keyboard translation tables
+  1082	loadunimap (8)       - load the kernel unicode-to-font mapping table
+  1083	localc (1)           - LibreOffice office suite
+  1084	locale (5)           - describes a locale definition file
+  1085	locale (1)           - get locale-specific information
+  1086	locale (7)           - description of multilanguage support
+  1087	localectl (1)        - Control the system locale and keyboard layout settings
+  1088	localedef (1)        - compile locale definition files
+  1089	lodraw (1)           - LibreOffice office suite
+  1090	loffice (1)          - LibreOffice office suite
+  1091	lofromtemplate (1)   - LibreOffice office suite
+  1092	log2asc (1)          - manual page for log2asc 2020.11.0-1
+  1093	logger (1)           - enter messages into the system log
+  1094	login (1)            - begin session on the system
+  1095	login (3)            - write utmp and wtmp entries
+  1096	loginctl (1)         - Control the systemd login manager
+  1097	logname (1)          - print user's login name
+  1098	logresolve (1)       - Resolve IP-addresses to hostnames in Apache log files
+  1099	loimpress (1)        - LibreOffice office suite
+  1100	lomath (1)           - LibreOffice office suite
+  1101	look (1)             - display lines beginning with a given string
+  1102	lookbib (1)          - search bibliographic databases
+  1103	loweb (1)            - LibreOffice office suite
+  1104	lowntfs-3g (8)       - Third Generation Read/Write NTFS Driver
+  1105	lowriter (1)         - LibreOffice office suite
+  1106	lp_solve (1)         - a mixed integer linear programming (MILP) solver
+  1107	ls (1)               - list directory contents
+  1108	lsattr (1)           - list file attributes on a Linux second extended file system
+  1109	lsblk (8)            - list block devices
+  1110	lsb_release (1)      - print distribution-specific information
+  1111	lscpu (1)            - display information about the CPU architecture
+  1112	lsdiff (1)           - show which files are modified by a patch
+  1113	lsinitramfs (8)      - list content of an initramfs image
+  1114	lsipc (1)            - show information on IPC facilities currently employed in the system
+  1115	lslocks (8)          - list local system locks
+  1116	lslogins (1)         - display information about known users in the system
+  1117	lsmem (1)            - list the ranges of available memory with their online status
+  1118	lsmod (8)            - Show the status of modules in the Linux Kernel
+  1119	lsns (8)             - list namespaces
+  1120	lsof (8)             - list open files
+  1121	lspci (8)            - list all PCI devices
+  1122	lspgpot (1)          - extracts the ownertrust values from PGP keyrings and list them in GnuPG ownertrust format.
+  1123	lstopo (1)           - Show the topology of the system
+  1124	lstopo-no-graphics (1) - Show the topology of the system
+  1125	lsusb (8)            - list USB devices
+  1126	luit (1)             - Locale and ISO 2022 support for Unicode terminals
+  1127	lwp-download (1p)    - Fetch large files from the web
+  1128	lwp-dump (1p)        - See what headers and content is returned for a URL
+  1129	lwp-mirror (1p)      - Simple mirror utility
+  1130	lwp-request (1p)     - Simple command line user agent
+  1131	lxterm (1)           - locale-sensitive wrapper for xterm
+  1132	lz (1)               - gunzips and shows a listing of a gzip'd tar'd archive
+  1133	lzcat (1)            - Compress or decompress .xz and .lzma files
+  1134	lzcmp (1)            - compare compressed files
+  1135	lzdiff (1)           - compare compressed files
+  1136	lzegrep (1)          - search compressed files for a regular expression
+  1137	lzfgrep (1)          - search compressed files for a regular expression
+  1138	lzgrep (1)           - search compressed files for a regular expression
+  1139	lzip (1)             - reduces the size of files
+  1140	lzip-compressor (1)  - reduces the size of files
+  1141	lzip-decompressor (1) - reduces the size of files
+  1142	lzip.lzip (1)        - reduces the size of files
+  1143	lzless (1)           - view xz or lzma compressed (text) files
+  1144	lzma (1)             - Compress or decompress .xz and .lzma files
+  1145	lzmainfo (1)         - show information stored in the .lzma file header
+  1146	lzmore (1)           - view xz or lzma compressed (text) files
+  1147	lzop (1)             - compress or expand files
+  1148	m4 (1)               - macro processor
+  1149	mac2unix (1)         - DOS/Mac to Unix and vice versa text file format converter
+  1150	macchanger (1)       - MAC Changer
+  1151	macptopbm (1)        - convert a MacPaint file into a portable bitmap
+  1152	mactime (1)          - Create an ASCII time line of file activity
+  1153	magicrescue (1)      - Scans a block device and extracts known file types by looking at magic bytes.
+  1154	magicsort (1)        - Categorize files by their file(1) magic
+  1155	mail (1)             - send and receive mail
+  1156	Mail (1)             - send and receive mail
+  1157	mailer (8)           - script to warn users about their weak passwords
+  1158	mailq (8)            - a Mail Transfer Agent
+  1159	mailx (1)            - send and receive mail
+  1160	make (1)             - GNU make utility to maintain groups of programs
+  1161	make-cadir (1)       - create certificates dir
+  1162	make-first-existing-target (1) - runs make on one of several targets
+  1163	makeivs-ng (1)       - generate a dummy IVS dump file with a specific WEP key
+  1164	make_method (1p)     - Turn Perl code into an XML description for RPC::XML::Server
+  1165	mako-render (1)      - renders Mako templates
+  1166	man (1)              - an interface to the system reference manuals
+  1167	man (7)              - macros to format man pages
+  1168	mandb (8)            - create or update the manual page index caches
+  1169	manpath (5)          - format of the /etc/manpath.config file
+  1170	manpath (1)          - determine search path for manual pages
+  1171	man-recode (1)       - convert manual pages to another encoding
+  1172	mapscrn (8)          - load screen output mapping table
+  1173	x-window-manager (1) - The MATE Window Manager
+  1174	marco (1)            - The MATE Window Manager
+  1175	marco-compton (1)    - Marco window manager wrapper
+  1176	marco-message (1)    - A command to send messages to Marco.
+  1177	marco-no-composite (1) - Marco window manager wrapper
+  1178	marco-theme-viewer (1) - Marco Theme Previewer
+  1179	marco-window-demo (1) - demo of window features
+  1180	markdown_py (1)      - a Python implementation of John Gruber's Markdown.
+  1181	masscan (8)          - Fast scan of the Internet
+  1182	mat2 (1)             - the metadata anonymisation toolkit 2
+  1183	mate-about (1)       - Learn more about MATE
+  1184	mate-about-me (1)    - is a control center applet.
+  1185	mate-appearance-properties (1) - is a control center applet.
+  1186	mate-at-properties (1) - configure MATE Assistive Technologies
+  1187	mate-autogen (1)     - generates all makefiles for MATE packages
+  1188	mate-calc (1)        - (mate-calculator) - The MATE Desktop Environment Calculator
+  1189	mate-calc-cmd (1)    - A console calculator for the MATE Desktop Environment.
+  1190	mate-calculator (1)  - (mate-calculator) - The MATE Desktop Environment Calculator
+  1191	mate-color-select (1) - Select a color from a palette or from screen
+  1192	mate-control-center (1) - Configure MATE settings
+  1193	mate-cpufreq-selector (1) - A generic command line tool to change the cpu frequency.
+  1194	mate-default-applications-properties (1) - is a control center applet.
+  1195	mate-desktop-item-edit (1) - A small tool to edit .desktop files.
+  1196	mate-dictionary (1)  - Look up words on dictionaries
+  1197	mate-disk-usage-analyzer (1) - A graphical tool to analyse disk usage
+  1198	mate-display-properties (1) - customize MATE display behavor
+  1199	mate-doc-common (1)  - include the standard user documentation build files
+  1200	mate-font-viewer (1) - preview fonts
+  1201	mate-keybinding-properties (1) - configure MATE keybindings
+  1202	mate-keyboard-properties (1) - manage keyboard behaviour in MATE
+  1203	mate-menu (1)        - Advanced menu for the MATE desktop environment's panel
+  1204	mate-mouse-properties (1) - configure MATE mouse preferences
+  1205	mate-network-properties (1) - configure MATE network proxy
+  1206	mate-notification-properties (1) - Set up the options for desktop notifications
+  1207	mate-panel (1)       - The Panel for the MATE Desktop Environment
+  1208	mate-panel-screenshot (1) - capture the screen, a window, or an user-defined area and save the snapshot image to a file.
+  1209	mate-panel-test-applets (1) - display and test installed applets
+  1210	mate-polkit (1)      - MATE PolicyKit-1 executable wrapper
+  1211	mate-power-manager (1) - MATE power manager userspace daemon
+  1212	mate-power-preferences (1) - MATE power preferences GUI
+  1213	mate-power-statistics (1) - MATE power statistics GUI
+  1214	mate-screensaver (1) - The MATE Desktop Screensaver and Locker
+  1215	mate-screensaver-command (1) - controls MATE screensaver
+  1216	mate-screensaver-preferences (1) - Configure MATE Screensaver
+  1217	mate-screenshot (1)  - capture the screen, a window, or an user-defined area and save the snapshot image to a file.
+  1218	mate-search-tool (1) - the MATE Search Tool
+  1219	mate-session (1)     - Start the MATE Desktop Environment.
+  1220	mate-session-inhibit (1) - inhibit mate-session functionality
+  1221	mate-session-properties (1) - Configure applications to start on login.
+  1222	mate-session-save (1) - End or save the current MATE session
+  1223	mate-settings-daemon (1) - Handles the MATE session settings
+  1224	mate-system-log (1)  - the MATE System Log Viewer
+  1225	mate-system-monitor (1) - view and control processes
+  1226	mate-terminal (1)    - manual page for MATE Terminal Emulator
+  1227	mate-terminal.wrapper (1) - manual page for MATE Terminal Emulator
+  1228	mate-thumbnail-font (1) - create font thumbnails
+  1229	mate-time-admin (1)  - set date and time
+  1230	mate-tweak (1)       - Configuration tweaker for MATE Desktop
+  1231	mate-typing-monitor (1) - take a break from typing
+  1232	mate-volume-control (1) - The MATE Volume Control application
+  1233	mate-volume-control-status-icon (1) - The MATE Volume Control Applet
+  1234	mate-window-properties (1) - configure MATE window manager preferences
+  1235	mate-wm (1)          - Start the window manager configured by the user
+  1236	mattrib (1)          - change MSDOS file attribute flags
+  1237	mawk (1)             - pattern scanning and text processing language
+  1238	mbadblocks (1)       - tests a floppy disk, and marks the bad blocks in the FAT
+  1239	mbimcli (1)          - Control MBIM devices
+  1240	mbim-network (1)     - Simple network management of MBIM devices
+  1241	mcat (1)             - dump raw disk image
+  1242	mcd (1)              - change MSDOS directory
+  1243	mcheck (1)           - verify all files on an MS-DOS formatted disk
+  1244	mcheck (3)           - heap consistency checking
+  1245	mclasserase (1)      - erase memory cards
+  1246	mcomp (1)            - Compares two files using mtools
+  1247	mcookie (1)          - generate magic cookies for xauth
+  1248	mcopy (1)            - copy MSDOS files to/from Unix
+  1249	md5deep (1)          - Compute and compare MD5 message digests
+  1250	md5sum (1)           - compute and check MD5 message digest
+  1251	md5sum.textutils (1) - compute and check MD5 message digest
+  1252	mdatopbm (1)         - convert a Microdesign .mda or .mdp file into a portable bitmap
+  1253	mdb-array (1)        - Export data in an MDB database table to a C array.
+  1254	mdb-count (1)        - Get listing of tables in an MDB database
+  1255	mdb-export (1)       - Export data in an MDB database table to CSV format.
+  1256	mdb-header (1)       - Write header file from an MDB database
+  1257	mdb-hexdump (1)      - Hexdump utility from MDB Tools
+  1258	mdb-json (1)         - Export data in an MDB database table to JSON.
+  1259	mdb-parsecsv (1)     - Convert CSV table dump into C file.
+  1260	mdb-prop (1)         - Get properties list from MDB database
+  1261	mdb-queries (1)      - Get listing of tables in an MDB database
+  1262	mdb-schema (1)       - Generate schema creation DDL
+  1263	mdb-sql (1)          - SQL interface to MDB Tools
+  1264	mdb-tables (1)       - Get listing of tables in an MDB database
+  1265	mdb-ver (1)          - Return the format of a given MDB database.
+  1266	mdel (1)             - delete an MSDOS file
+  1267	mdeltree (1)         - recursively delete an MSDOS directory and its contents
+  1268	mdig (1)             - DNS pipelined lookup utility
+  1269	mdir (1)             - display an MSDOS directory
+  1270	mdsearch (1)         - Run Spotlight searches against an SMB server
+  1271	mdu (1)              - display the amount of space occupied by an MSDOS directory
+  1272	mech-dump (1p)       - Dumps information about a web page
+  1273	medusa (1)           - Parallel Network Login Auditor
+  1274	memusage (1)         - profile memory usage of a program
+  1275	memusagestat (1)     - generate graphic from memory profiling data
+  1276	mergecap (1)         - Merges two or more capture files into one
+  1277	mesg (1)             - display (or do not display) messages from other users
+  1278	metaflac (1)         - program to list, add, remove, or edit metadata in one or more FLAC files.
+  1279	mfoc (1)             - MIFARE Classic offline cracker
+  1280	mformat (1)          - add an MSDOS filesystem to a low-level formatted floppy disk
+  1281	mfterm (1)           - The Mifare Terminal
+  1282	mgrtopbm (1)         - convert a MGR bitmap into a portable bitmap
+  1283	mid3cp (1)           - copy ID3 tags
+  1284	mid3iconv (1)        - convert ID3 tag encodings
+  1285	mid3v2 (1)           - audio tag editor similar to 'id3v2'
+  1286	migrate-pubring-from-classic-gpg (1) - Migrate a public keyring from "classic" to "modern" GnuPG
+  1287	mimeopen (1p)        - Open files by mimetype
+  1288	mimetype (1p)        - Determine file type
+  1289	minfo (1)            - print the parameters of a MSDOS filesystem
+  1290	mingle (1)           - fast edge bundling
+  1291	mispipe (1)          - pipe two commands, returning the exit status of the first
+  1292	missidentify (1)     - Find executable files without an executable extension
+  1293	mkdir (1)            - make directories
+  1294	mkdir (2)            - create a directory
+  1295	mkfifo (1)           - make FIFOs (named pipes)
+  1296	mkfifo (3)           - make a FIFO special file (a named pipe)
+  1297	mkfontdir (1)        - create an index of X font files in a directory
+  1298	mkfontscale (1)      - create an index of scalable font files for X
+  1299	mkmanifest (1)       - makes list of file names and their DOS 8+3 equivalent
+  1300	mk_modmap (8)        - translate a Linux keytable file into an xmodmap file
+  1301	mknod (1)            - make block or character special files
+  1302	mknod (2)            - create a special or ordinary file
+  1303	mkpasswd (1)         - Overfeatured front end to crypt(3)
+  1304	mksquashfs (1)       - tool to create and append to squashfs filesystems
+  1305	mktemp (1)           - create a temporary file or directory
+  1306	mktemp (3)           - make a unique temporary filename
+  1307	mlabel (1)           - make an MSDOS volume label
+  1308	mm2gv (1)            - Matrix Market-DOT converters
+  1309	mmcat (1)            - Output the contents of a partition to stdout
+  1310	mmcli (1)            - Control and monitor the ModemManager
+  1311	mmd (1)              - make an MSDOS subdirectory
+  1312	mmdbresolve (1)      - Read IPv4 and IPv6 addresses and print their IP geolocation information.
+  1313	mmls (1)             - Display the partition layout of a volume system (partition tables)
+  1314	mmount (1)           - mount an MSDOS disk
+  1315	mmove (1)            - move or rename an MSDOS file or subdirectory
+  1316	mmroff (1)           - cross-reference preprocessor for GNU roff mm macro package
+  1317	mmstat (1)           - Display details about the volume system (partition tables)
+  1318	moc-qt5 (1)          - generate Qt meta object support code
+  1319	moggsplit (1)        - split Ogg logical streams
+  1320	mogrify (1)          - command-line utility to create, edit, compare, convert, or display images
+  1321	montage (1)          - command-line utility to create, edit, compare, convert, or display images
+  1322	more (1)             - file perusal filter for crt viewing
+  1323	mount (8)            - mount a filesystem
+  1324	mount (2)            - mount filesystem
+  1325	mountpoint (1)       - see if a directory or file is a mountpoint
+  1326	mozo (1)             - MATE Menu Editor
+  1327	mp32 (1)             - high-performance word generator with a per-position configurable charset
+  1328	mp3-decoder (1)      - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+  1329	mp64 (1)             - high-performance word generator with a per-position configurable charset
+  1330	mpartition (1)       - partition an MSDOS hard disk
+  1331	mpg123 (1)           - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+  1332	mpg123-alsa (1)      - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+  1333	mpg123.bin (1)       - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+  1334	mpg123-jack (1)      - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+  1335	mpg123-nas (1)       - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+  1336	mpg123-openal (1)    - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+  1337	mpg123-oss (1)       - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+  1338	mpg123-portaudio (1) - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+  1339	mpg123-pulse (1)     - play audio MPEG 1.0/2.0/2.5 stream (layers 1, 2 and 3)
+  1340	mpris-proxy (1)      - Bluetooth mpris-proxy
+  1341	mpstat (1)           - Report processors related statistics.
+  1342	mrd (1)              - remove an MSDOS subdirectory
+  1343	mren (1)             - rename an existing MSDOS file
+  1344	msd-datetime-mechanism (1) - set system time via D-Bus
+  1345	msd-locate-pointer (1) - create ripples around mouse pointer
+  1346	msfconsole (1)       - Metasploit Framework Console
+  1347	msfvenom (1)         - Payload Generator and Encoder
+  1348	msgattrib (1)        - attribute matching and manipulation on message catalog
+  1349	msgcat (1)           - combines several message catalogs
+  1350	msgcmp (1)           - compare message catalog and template
+  1351	msgcomm (1)          - match two message catalogs
+  1352	msgconv (1)          - character set conversion for message catalog
+  1353	msgen (1)            - create English message catalog
+  1354	msgexec (1)          - process translations of message catalog
+  1355	msgfilter (1)        - edit translations of message catalog
+  1356	msgfmt (1)           - compile message catalog to binary format
+  1357	msggrep (1)          - pattern matching on message catalog
+  1358	msginit (1)          - initialize a message catalog
+  1359	msgmerge (1)         - merge message catalog and template
+  1360	msgunfmt (1)         - uncompile message catalog from binary format
+  1361	msguniq (1)          - unify duplicate translations in message catalog
+  1362	mshortname (1)       - shows short name of a file
+  1363	mshowfat (1)         - shows FAT clusters allocated to file
+  1364	mt (1)               - control magnetic tape drive operation
+  1365	mt-gnu (1)           - control magnetic tape drive operation
+  1366	mtools (5)           - mtools configuration files
+  1367	mtools (1)           - utilities to access DOS disks in Unix.
+  1368	mtoolstest (1)       - tests and displays the configuration
+  1369	mtrace (1)           - interpret the malloc trace log
+  1370	mtrace (3)           - malloc tracing
+  1371	mtvtoppm (1)         - convert output from the MTV or PRT ray tracers into a portable pixmap
+  1372	mtype (1)            - display contents of an MSDOS file
+  1373	mutagen-inspect (1)  - view Mutagen-supported audio tags
+  1374	mutagen-pony (1)     - scan a collection of MP3 files
+  1375	mv (1)               - move (rename) files
+  1376	mvxattr (1)          - Recursively rename extended attributes
+  1377	mxtar (1)            - Wrapper for using GNU tar directly from a floppy disk
+  1378	mzip (1)             - change protection mode and eject disk on Zip/Jaz drive
+  1379	namei (1)            - follow a pathname until a terminal point is found
+  1380	nano (1)             - Nano's ANOther editor, inspired by Pico
+  1381	nasm (1)             - the Netwide Assembler, a portable 80x86 assembler
+  1382	nawk (1)             - pattern scanning and text processing language
+  1383	nbtscan (1)          - scan networks for NetBIOS name information
+  1384	nc (1)               - TCP/IP swiss army knife
+  1385	ncrack (1)           - Network authentication cracking tool
+  1386	nc.traditional (1)   - TCP/IP swiss army knife
+  1387	ncurses5-config (1)  - helper script for ncurses libraries
+  1388	ncurses6-config (1)  - helper script for ncurses libraries
+  1389	ncursesw5-config (1) - helper script for ncurses libraries
+  1390	ncursesw6-config (1) - helper script for ncurses libraries
+  1391	ndisasm (1)          - the Netwide Disassembler, an 80x86 binary file disassembler
+  1392	neato (1)            - filter for drawing undirected graphs
+  1393	neofetch (1)         - A fast, highly customizable system info script
+  1394	neotoppm (1)         - convert an Atari Neochrome .neo into a portable pixmap
+  1395	neqn (1)             - format equations for ASCII output
+  1396	net (8)              - Tool for administration of Samba and remote CIFS servers.
+  1397	netaddr (1)          - interactive shell for netaddr Python library
+  1398	netcat (1)           - TCP/IP swiss army knife
+  1399	netkey-tool (1)      - administrative utility for Netkey E4 cards
+  1400	netsed (1)           - a network stream editor.
+  1401	net-server (1p)      - Base Net::Server starting module
+  1402	netstat (8)          - Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+  1403	networkctl (1)       - Query the status of network links
+  1404	newaliases (8)       - a Mail Transfer Agent
+  1405	newgrp (1)           - log in to a new group
+  1406	nfc-barcode (1)      - NFC Barcode (Tag-Talks-First) reader
+  1407	nfc-emulate-forum-tag4 (1) - NFC Forum tag type 4 emulation command line demonstration tool
+  1408	nfc-jewel (1)        - Jewel command line tool
+  1409	nfc-list (1)         - list NFC targets
+  1410	nfc-mfclassic (1)    - MIFARE Classic command line tool
+  1411	nfc-mfultralight (1) - MIFARE Ultralight command line tool
+  1412	nfc-read-forum-tag3 (1) - Extract NDEF Message from a NFC Forum Tag Type 3
+  1413	nfc-relay-picc (1)   - Relay demonstration tool for ISO14443-4
+  1414	nfc-scan-device (1)  - Scan NFC devices
+  1415	ngettext (1)         - translate message and choose plural form
+  1416	ngettext (3)         - translate message and choose plural form
+  1417	ngrep (8)            - network grep
+  1418	nice (1)             - run a program with modified scheduling priority
+  1419	nice (2)             - change process priority
+  1420	nikto (1)            - Scan web server for known vulnerabilities
+  1421	nisdomainname (1)    - show or set the system's NIS/YP domain name
+  1422	nl (1)               - number lines of files
+  1423	nload (1)            - displays the current network usage
+  1424	nm (1)               - list symbols from object files
+  1425	nmap (1)             - Network exploration tool and security / port scanner
+  1426	nm-applet (1)        - network monitor and control GUI applet
+  1427	nmapsi4 (1)          - A Qt4 interface for nmap
+  1428	nmblookup (1)        - NetBIOS over TCP/IP client used to lookup NetBIOS names
+  1429	nmcli (1)            - command-line tool for controlling NetworkManager
+  1430	nm-connection-editor (1) - network connection editor for NetworkManager
+  1431	nm-online (1)        - ask NetworkManager whether the network is connected
+  1432	nmtui (1)            - Text User Interface for controlling NetworkManager
+  1433	nmtui-connect (1)    - Text User Interface for controlling NetworkManager
+  1434	nmtui-edit (1)       - Text User Interface for controlling NetworkManager
+  1435	nmtui-hostname (1)   - Text User Interface for controlling NetworkManager
+  1436	node (1)             - server-side JavaScript runtime
+  1437	nodejs (1)           - server-side JavaScript runtime
+  1438	nohup (1)            - run a command immune to hangups, with output to a non-tty
+  1439	nokogiri (1)         - an HTML, XML, SAX, and Reader parser
+  1440	nop (1)              - pretty-print graph file
+  1441	nosetests3 (1)       - Nicer testing for Python
+  1442	notify-send (1)      - a program to send desktop notifications
+  1443	npa-tool (1)         - displays information on the German eID card (neuer Personalausweis, nPA).
+  1444	nping (1)            - Network packet generation tool / ping utility
+  1445	nproc (1)            - print the number of processing units available
+  1446	nroff (1)            - use groff to format documents for TTY devices
+  1447	nsenter (1)          - run program in different namespaces
+  1448	nslookup (1)         - query Internet name servers interactively
+  1449	nstat (8)            - network statistics tools.
+  1450	nsupdate (1)         - dynamic DNS update utility
+  1451	ntfs-3g (8)          - Third Generation Read/Write NTFS Driver
+  1452	ntfs-3g.probe (8)    - Probe an NTFS volume mountability
+  1453	ntfscat (8)          - print NTFS files and streams on the standard output
+  1454	ntfscluster (8)      - identify files in a specified region of an NTFS volume.
+  1455	ntfscmp (8)          - compare two NTFS filesystems and tell the differences
+  1456	ntfsdecrypt (8)      - decrypt or update NTFS files encrypted according to EFS
+  1457	ntfsfallocate (8)    - preallocate space to a file on an NTFS volume
+  1458	ntfsfix (8)          - fix common errors and force Windows to check NTFS
+  1459	ntfsinfo (8)         - dump a file's attributes
+  1460	ntfsls (8)           - list directory contents on an NTFS filesystem
+  1461	ntfsrecover (8)      - Recover updates committed by Windows on an NTFS volume
+  1462	ntfssecaudit (8)     - NTFS Security Data Auditing
+  1463	ntfstruncate (8)     - truncate a file on an NTFS volume
+  1464	ntfsusermap (8)      - NTFS Building a User Mapping File
+  1465	ntfswipe (8)         - overwrite unused space on an NTFS volume
+  1466	ntpdc (1)            - vendor-specific NTPD control program
+  1467	ntpq (1)             - standard NTP query program
+  1468	ntpsweep (1)         - Sweep NTP Servers and Report Relationships
+  1469	ntptrace (1)         - Trace peers of an NTP server
+  1470	numfmt (1)           - Convert numbers from/to human-readable strings
+  1471	nvim (1)             - edit text
+  1472	nvlc (1)             - the VLC media player
+  1473	nyx (1)              - Tor terminal status monitor
+  1474	obexctl (1)          - A command-line interface of BlueZ for OBEX (file transfer)
+  1475	obfs4proxy (1)       - pluggable transport proxy for Tor, implementing obfs4
+  1476	objcopy (1)          - copy and translate object files
+  1477	objdump (1)          - display information from object files
+  1478	oclock (1)           - round X clock
+  1479	ocsptool (1)         - GnuTLS OCSP tool
+  1480	od (1)               - dump files in octal and other formats
+  1481	ofs2rva (1)          - converts a PE raw file offset to relative virtual address
+  1482	oLschema2ldif (1)    - Converts LDAP schema's to LDB-compatible LDIF
+  1483	omshell (1)          - OMAPI Command Shell
+  1484	on_ac_power (1)      - test whether computer is running on AC power
+  1485	onboard (1)          - On-screen Keyboard
+  1486	onboard-settings (1) - On-screen Keyboard (configuration dialog)
+  1487	onesixtyone (1)      - fast and simple SNMP scanner
+  1488	onionshare (1)       - a tool for anonymously sharing and receiving files over a temporarily set up Tor Hidden service.
+  1489	onionshare-gui (1)   - a tool for anonymously sharing and receiving files over a temporarily set up Tor Hidden service.
+  1490	onsgmls (1)          - An SGML/XML parser and validator
+  1491	open (1)             - opens a file or URL in the user's preferred application
+  1492	open (2)             - open and possibly create a file
+  1493	openfortivpn (1)     - Client for PPP+SSL VPN tunnel services
+  1494	openpgp-tool (1)     - utility for accessing visible data OpenPGP smart cards and compatible tokens
+  1495	opensc-asn1 (1)      - parse ASN.1 data
+  1496	opensc-explorer (1)  - generic interactive utility for accessing smart card and similar security token functions
+  1497	opensc-notify (1)    - monitor smart card events and send notifications
+  1498	opensc-tool (1)      - generic smart card utility
+  1499	openssl (1ssl)       - OpenSSL command line tool
+  1500	openvas-nasl (1)     - NASL Attack Scripting Language
+  1501	openvas-nasl-lint (1) - OpenVAS standalone NASL linter
+  1502	openvt (1)           - start a program on a new virtual terminal (VT).
+  1503	ophcrack (1)         - a Microsoft Windows password cracker using rainbow tables.
+  1504	ophcrack-cli (1)     - a Microsoft Windows password cracker using rainbow tables.
+  1505	orca (1)             - a scriptable screen reader
+  1506	osage (1)            - filter for drawing clustered graphs
+  1507	osgmlnorm (1)        - An SGML/XML document normalizer
+  1508	ospam (1)            - An SGML/XML markup stream editor
+  1509	ospcat (1)           - SGML print catalog
+  1510	ospd-openvas (8)     - The OpenVAS Wrapper of the Greenbone Vulnerability Management
+  1511	ospent (1)           - Concatenates entities in an SGML/XML document
+  1512	osx (1)              - An SGML to XML converter
+  1513	out123 (1)           - send raw PCM audio or a waveform pattern to an output device
+  1514	owdir (1)            - lightweight owserver access
+  1515	owexist (1)          - lightweight owserver access
+  1516	owget (1)            - lightweight owserver access
+  1517	owmon (1)            - Monitor for owserver settings and statistics
+  1518	owpresent (1)        - lightweight owserver access
+  1519	owread (1)           - lightweight owserver access
+  1520	owtap (1)            - Packet sniffer for the owserver protocol
+  1521	owwrite (1)          - lightweight owserver access
+  1522	p11-kit (8)          - Tool for operating on configured PKCS#11 modules
+  1523	p11tool (1)          - GnuTLS PKCS #11 tool
+  1524	p7zip (1)            - Wrapper on 7-Zip file archiver with high compression ratio
+  1525	pacat (1)            - Play back or record raw or encoded audio streams on a PulseAudio sound server
+  1526	pack200 (1)          - Packages a JAR file into a compressed pack200 file for web deployment.
+  1527	packetforge-ng (1)   - forge packets: ARP, UDP, ICMP or custom packets.
+  1528	pacmd (1)            - Reconfigure a PulseAudio sound server during runtime
+  1529	pactl (1)            - Control a running PulseAudio sound server
+  1530	padsp (1)            - PulseAudio OSS Wrapper
+  1531	pager (1)            - opposite of more
+  1532	palmtopnm (1)        - convert a Palm pixmap into a portable anymap
+  1533	pamcut (1)           - cut a rectangle out of a PAM, PBM, PGM, or PPM image
+  1534	pamdeinterlace (1)   - remove ever other row from a PAM/PNM image
+  1535	pamdice (1)          - slice a Netpbm image into many horizontally and/or vertically
+  1536	pamfile (1)          - describe a Netpbm (PAM or PNM) file
+  1537	pamoil (1)           - turn a PAM image into an oil painting
+  1538	pamon (1)            - Play back or record raw or encoded audio streams on a PulseAudio sound server
+  1539	pamstack (1)         - stack planes of multiple PAM images into one PAM image
+  1540	pamstretch (1)       - scale up a PNM or PAM image by interpolating between pixels
+  1541	pamstretch-gen (1)   - use pamstretch and pnmscale to scale by non-integer values
+  1542	paperconf (1)        - print paper configuration information
+  1543	paplay (1)           - Play back or record raw or encoded audio streams on a PulseAudio sound server
+  1544	parallel (1)         - run programs in parallel
+  1545	parec (1)            - Play back or record raw or encoded audio streams on a PulseAudio sound server
+  1546	parecord (1)         - Play back or record raw or encoded audio streams on a PulseAudio sound server
+  1547	partx (8)            - tell the kernel about the presence and numbering of on-disk partitions
+  1548	pasco (1)            - tool to extract information from MS IE cache files
+  1549	passwd (5)           - the password file
+  1550	passwd (1)           - change user password
+  1551	passwd (1ssl)        - compute password hashes
+  1552	paste (1)            - merge lines of files
+  1553	pasuspender (1)      - Temporarily suspend PulseAudio
+  1554	patch (1)            - apply a diff file to an original
+  1555	patchview (1)        - Without options, show numbered files modified by the patch. With options, behave as filterdiff.
+  1556	patchwork (1)        - filter for drawing clustered graphs as treemaps
+  1557	pathchk (1)          - check whether file names are valid or portable
+  1558	pax11publish (1)     - PulseAudio X11 Credential Utility
+  1559	pbmclean (1)         - flip isolated pixels in portable bitmap
+  1560	pbmlife (1)          - apply Conway's rules of Life to a portable bitmap
+  1561	pbmmake (1)          - create a blank bitmap of a specified size
+  1562	pbmmask (1)          - create a mask bitmap from a regular bitmap
+  1563	pbmpage (1)          - create a one page test pattern for printing
+  1564	pbmpscale (1)        - enlarge a portable bitmap with edge smoothing
+  1565	pbmreduce (1)        - read a portable bitmap and reduce it N times
+  1566	pbmtext (1)          - render text into a bitmap
+  1567	pbmtextps (1)        - render text into a bitmap via postscript
+  1568	pbmto10x (1)         - convert a portable bitmap into Gemini 10X printer graphics
+  1569	pbmtoascii (1)       - convert a portable bitmap into ASCII graphics
+  1570	pbmtoatk (1)         - convert portable bitmap to Andrew Toolkit raster object
+  1571	pbmtobbnbg (1)       - convert a portable bitmap into BitGraph graphics
+  1572	pbmtocmuwm (1)       - convert a portable bitmap into a CMU window manager bitmap
+  1573	pbmtoepsi (1)        - convert a portable bitmap into an encapsulated PostScript style preview bitmap
+  1574	pbmtoepson (1)       - convert a portable bitmap into Epson printer graphics
+  1575	pbmtog3 (1)          - convert a portable bitmap into a Group 3 fax file
+  1576	pbmtogem (1)         - convert a portable bitmap into a GEM .img file
+  1577	pbmtogo (1)          - convert a portable bitmap into compressed GraphOn graphics
+  1578	pbmtoicon (1)        - convert a portable bitmap into a Sun icon
+  1579	pbmtolj (1)          - convert a portable bitmap into HP LaserJet format
+  1580	pbmtomacp (1)        - convert a portable bitmap into a MacPaint file
+  1581	pbmtomda (1)         - convert a portable bitmap to a Microdesign .mda
+  1582	pbmtomgr (1)         - convert a portable bitmap into a MGR bitmap
+  1583	pbmtonokia (1)       - convert a portable bitmap to Nokia Smart Messaging Formats
+  1584	pbmtopgm (1)         - convert portable bitmap to portable graymap by averaging areas
+  1585	pbmtopi3 (1)         - convert a portable bitmap into an Atari Degas .pi3 file
+  1586	pbmtoplot (1)        - convert a portable bitmap into a Unix plot(5) file
+  1587	pbmtoppa (1)         - convert PBM image to HP Printer Performance Architecture (PPA)
+  1588	pbmtopsg3 (1)        - convert PBM images to Postscript with G3 fax compression
+  1589	pbmtoptx (1)         - convert a portable bitmap into Printronix printer graphics
+  1590	pbmtowbmp (1)        - convert a portable bitmap to a wireless bitmap (wbmp) file
+  1591	pbmtox10bm (1)       - convert a portable bitmap into an X10 bitmap
+  1592	pbmtoxbm (1)         - convert a portable bitmap into an X11 bitmap
+  1593	pbmtoybm (1)         - convert a portable bitmap into a Bennet Yee "face" file
+  1594	pbmtozinc (1)        - convert a portable bitmap into a Zinc bitmap
+  1595	pbmupc (1)           - create a Universal Product Code bitmap
+  1596	pcf2vpnc (1)         - converts VPN-config files from pcf to vpnc-format
+  1597	pcxtoppm (1)         - convert a PCX file into a portable pixmap
+  1598	pdb3 (1)             - the Python debugger
+  1599	pdbedit (8)          - manage the SAM database (Database of Samba Users)
+  1600	pdf2dsc (1)          - generate a PostScript page list of a PDF document
+  1601	pdf2ps (1)           - Ghostscript PDF to PostScript translator
+  1602	pdfcrack (1)         - Password recovery tool for PDF-files
+  1603	pdfmom (1)           - produce PDF documents using the mom macro package for groff
+  1604	pdfroff (1)          - create PDF documents using groff
+  1605	pedis (1)            - disassemble PE sections and functions
+  1606	pee (1)              - tee standard input to pipes
+  1607	peekfd (1)           - peek at file descriptors of running processes
+  1608	pehash (1)           - calculate hashes of PE pieces
+  1609	peldd (1)            - shows library dependencies for a given PE file
+  1610	pepack (1)           - check if a PE file is packed
+  1611	peres (1)            - analyze and extract PE file resources
+  1612	perf (1)             - performance analysis tools for Linux
+  1613	perl (1)             - The Perl 5 language interpreter
+  1614	perl5.32-x86_64-linux-gnu (1) - The Perl 5 language interpreter
+  1615	perlbug (1)          - how to submit bug reports on Perl
+  1616	perlivp (1)          - Perl Installation Verification Procedure
+  1617	perlthanks (1)       - how to submit bug reports on Perl
+  1618	perror (3)           - print a system error message
+  1619	pescan (1)           - identify suspicious characteristics in PE files
+  1620	pesec (1)            - check for protections in PE files
+  1621	pestr (1)            - search strings in PE files
+  1622	pf2afm (1)           - Make an AFM file from Postscript (PFB/PFA/PFM) font files using ghostscript
+  1623	pfbtopfa (1)         - Convert Postscript .pfb fonts to .pfa format using ghostscript
+  1624	pfbtops (1)          - translate Printer Font Binary files to PostScript ASCII
+  1625	pfc (1)              - active precompiled filters generator
+  1626	pg_archivecleanup (1) - clean up PostgreSQL WAL archive files
+  1627	pg_basebackup (1)    - take a base backup of a PostgreSQL cluster
+  1628	pgbench (1)          - run a benchmark test on PostgreSQL
+  1629	pg_buildext (1)      - Build and install a PostgreSQL extension
+  1630	pg_conftool (1)      - read and edit PostgreSQL cluster configuration files
+  1631	pg_createcluster (1) - create a new PostgreSQL cluster
+  1632	pg_ctlcluster (1)    - start/stop/restart/reload a PostgreSQL cluster
+  1633	pg_dropcluster (1)   - completely delete a PostgreSQL cluster
+  1634	pg_dump (1)          - extract a PostgreSQL database into a script file or other archive file
+  1635	pg_dumpall (1)       - extract a PostgreSQL database cluster into a script file
+  1636	pg_isready (1)       - check the connection status of a PostgreSQL server
+  1637	pg_lsclusters (1)    - show information about all PostgreSQL clusters
+  1638	pgmbentley (1)       - Bentleyize a portable graymap
+  1639	pgmcrater (1)        - create cratered terrain by fractal forgery
+  1640	pgmedge (1)          - edge-detect a portable graymap
+  1641	pgmenhance (1)       - edge-enhance a portable graymap
+  1642	pgmhist (1)          - print a histogram of the values in a portable graymap
+  1643	pgmkernel (1)        - generate a convolution kernel
+  1644	pgmnoise (1)         - create a graymap made up of white noise
+  1645	pgmnorm (1)          - normalize the contrast in a Netbpm image
+  1646	pgmoil (1)           - turn a PAM image into an oil painting
+  1647	pgmramp (1)          - generate a grayscale ramp
+  1648	pgmslice (1)         - extract one line of pixel values out of a portable graymap
+  1649	pgmtexture (1)       - calculate textural features on a portable graymap
+  1650	pgmtofs (1)          - convert portable graymap to Usenix FaceSaver(tm) format
+  1651	pgmtolispm (1)       - convert a portable graymap into Lisp Machine format
+  1652	pgmtopbm (1)         - convert a portable graymap into a portable bitmap
+  1653	pgmtoppm (1)         - colorize a portable graymap into a portable pixmap
+  1654	pg_receivewal (1)    - stream write-ahead logs from a PostgreSQL server
+  1655	pg_recvlogical (1)   - control PostgreSQL logical decoding streams
+  1656	pg_renamecluster (1) - rename a PostgreSQL cluster
+  1657	pgrep (1)            - look up, signal, or wait for processes based on name and other attributes
+  1658	pg_restore (1)       - restore a PostgreSQL database from an archive file created by pg_dump
+  1659	pg_upgradecluster (1) - upgrade an existing PostgreSQL cluster to a new major version.
+  1660	pg_virtualenv (1)    - Create a throw-away PostgreSQL environment for running regression tests
+  1661	phar (1)             - PHAR (PHP archive) command line tool
+  1662	phar7.4 (1)          - PHAR (PHP archive) command line tool
+  1663	phar7.4.phar (1)     - PHAR (PHP archive) command line tool
+  1664	phar.phar (1)        - PHAR (PHP archive) command line tool
+  1665	phar.phar7.4 (1)     - PHAR (PHP archive) command line tool
+  1666	php (1)              - PHP Command Line Interface 'CLI'
+  1667	php7.4 (1)           - PHP Command Line Interface 'CLI'
+  1668	pi1toppm (1)         - convert an Atari Degas .pi1 into a portable pixmap
+  1669	pi3topbm (1)         - convert an Atari Degas .pi3 file into a portable bitmap
+  1670	pic (1)              - compile pictures for troff or TeX
+  1671	pic2graph (1)        - convert a PIC diagram into a cropped image
+  1672	pico (1)             - Nano's ANOther editor, inspired by Pico
+  1673	piconv (1)           - - iconv(1), reinvented in perl
+  1674	pidof (8)            - find the process ID of a running program.
+  1675	pidstat (1)          - Report statistics for Linux tasks.
+  1676	pidwait (1)          - look up, signal, or wait for processes based on name and other attributes
+  1677	pigz (1)             - compress or expand files
+  1678	pinentry (1)         - PIN or pass-phrase entry dialog for GnuPG
+  1679	pinentry-curses (1)  - PIN or pass-phrase entry dialog for GnuPG
+  1680	pinentry-gnome3 (1)  - PIN or pass-phrase entry dialog for GnuPG
+  1681	pinentry-x11 (1)     - PIN or pass-phrase entry dialog for GnuPG
+  1682	ping (8)             - send ICMP ECHO_REQUEST to network hosts
+  1683	ping4 (8)            - send ICMP ECHO_REQUEST to network hosts
+  1684	ping6 (8)            - send ICMP ECHO_REQUEST to network hosts
+  1685	pinky (1)            - lightweight finger
+  1686	pip (1)              - A tool for installing and managing Python packages
+  1687	pip3 (1)             - A tool for installing and managing Python packages
+  1688	pipewire (1)         - The PipeWire media server
+  1689	pipewire-pulse (1)   - The PipeWire PulseAudio replacement
+  1690	piv-tool (1)         - smart card utility for HSPD-12 PIV cards
+  1691	pixiewps (1)         - Offline Wi-Fi Protected Setup bruteforce tool
+  1692	pjtoppm (1)          - convert an HP PaintJet file to a portable pixmap
+  1693	pkaction (1)         - Get details about a registered action
+  1694	pkcheck (1)          - Check whether a process is authorized
+  1695	pkcs11-register (1)  - Simple tool to install PKCS#11 modules to known applications.
+  1696	pkcs11-tool (1)      - utility for managing and using PKCS #11 security tokens
+  1697	pkcs15-crypt (1)     - perform crypto operations using PKCS#15 smart cards
+  1698	pkcs15-init (1)      - smart card personalization utility
+  1699	pkcs15-tool (1)      - utility for manipulating PKCS #15 data structures on smart cards and similar security tokens
+  1700	pkexec (1)           - Execute a command as another user
+  1701	pkg-config (1)       - Return metainformation about installed libraries
+  1702	pkginfo (1)          - print metadata for one or more Python package distributions
+  1703	pkill (1)            - look up, signal, or wait for processes based on name and other attributes
+  1704	pkttyagent (1)       - Textual authentication helper
+  1705	pl2pm (1)            - Rough tool to translate Perl4 .pl files to Perl5 .pm modules.
+  1706	pldd (1)             - display dynamic shared objects linked into a process
+  1707	plog (1)             - starts up, shuts down or lists the log of PPP connections
+  1708	pluma (1)            - The MATE Text Editor
+  1709	plymouth (8)         - A graphical boot system and logger
+  1710	plymouth (1)         - Send commands to plymouthd
+  1711	pmap (1)             - report memory map of a process
+  1712	pngtopnm (1)         - convert a Portable Network Graphics file into portable anymap
+  1713	pnmalias (1)         - antialias a portable anyumap.
+  1714	pnmarith (1)         - perform arithmetic on two portable anymaps
+  1715	pnmcat (1)           - concatenate portable anymaps
+  1716	pnmcolormap (1)      - create quantization color map for a portable anymap
+  1717	pnmcomp (1)          - composite (overlay) two portable anymap files together
+  1718	pnmconvol (1)        - general MxN convolution on a portable anymap
+  1719	pnmcrop (1)          - crop a portable anymap
+  1720	pnmcut (1)           - cut a rectangle out of a portable anymap
+  1721	pnmdepth (1)         - change the maxval in a portable anymap
+  1722	pnmenlarge (1)       - read a portable anymap and enlarge it N times
+  1723	pnmfile (1)          - describe a portable anymap
+  1724	pnmflip (1)          - perform one or more flip operations on a portable anymap
+  1725	pnmgamma (1)         - perform gamma correction on a portable anymap
+  1726	pnmhisteq (1)        - histogram equalise a portable anymap
+  1727	pnmhistmap (1)       - draw a histogram for a PGM or PPM file
+  1728	pnmindex (1)         - build a visual index of a bunch of anymaps
+  1729	pnminterp (1)        - scale up a PNM or PAM image by interpolating between pixels
+  1730	pnminterp-gen (1)    - use pamstretch and pnmscale to scale by non-integer values
+  1731	pnminvert (1)        - invert a portable anymap
+  1732	pnmmargin (1)        - add a border to a portable anymap
+  1733	pnmmontage (1)       - create a montage of portable anymaps
+  1734	pnmnlfilt (1)        - non-linear filters: smooth, alpha trim mean, optimal estimation smoothing, edge enhancement.
+  1735	pnmnoraw (1)         - convert portable any map to plain (ASCII) anymap format
+  1736	pnmnorm (1)          - normalize the contrast in a Netbpm image
+  1737	pnmpad (1)           - add borders to portable anymap
+  1738	pnmpaste (1)         - paste a rectangle into a portable anymap
+  1739	pnmpsnr (1)          - compute the difference between two portable anymaps
+  1740	pnmquant (1)         - quantize the colors in a Netpbm image to a smaller set
+  1741	pnmremap (1)         - replace colors in a PPM image with colors from another set
+  1742	pnmrotate (1)        - rotate a portable anymap by some angle
+  1743	pnmscale (1)         - scale a portable anymap
+  1744	pnmscalefixed (1)    - scale a portable anymap quickly, but less accurate
+  1745	pnmshear (1)         - shear a portable anymap by some angle
+  1746	pnmsmooth (1)        - smooth out an image
+  1747	pnmsplit (1)         - split a multi-image portable anymap into multiple single-image files
+  1748	pnmtile (1)          - replicate a portable anymap into a specified size
+  1749	pnmtoddif (1)        - Convert a portable anymap to DDIF format
+  1750	pnmtofiasco (1)      - Convert a portable anymap to FIASCO compressed file
+  1751	pnmtofits (1)        - convert a portable anymap into FITS format
+  1752	pnmtojpeg (1)        - convert PNM image to a JFIF ("JPEG") image
+  1753	pnmtopalm (1)        - convert a portable anymap into a Palm pixmap
+  1754	pnmtoplainpnm (1)    - convert portable any map to plain (ASCII) anymap format
+  1755	pnmtopng (1)         - convert a portable anymap into a Portable Network Graphics file
+  1756	pnmtops (1)          - convert portable anymap to PostScript
+  1757	pnmtorast (1)        - convert a portable pixmap into a Sun rasterfile
+  1758	pnmtorle (1)         - convert a Netpbm image file into an RLE image file.
+  1759	pnmtosgi (1)         - convert a portable anymap to a SGI image file
+  1760	pnmtosir (1)         - convert a portable anymap into a Solitaire format
+  1761	pnmtotiff (1)        - convert a portable anymap into a TIFF file
+  1762	pnmtotiffcmyk (1)    - convert a portable anymap into a CMYK encoded TIFF file
+  1763	pnmtoxwd (1)         - convert a portable anymap into an X11 window dump
+  1764	pod2html (1)         - convert .pod files to .html files
+  1765	pod2man (1)          - Convert POD data to formatted *roff input
+  1766	pod2text (1)         - Convert POD data to formatted ASCII text
+  1767	pod2usage (1)        - print usage messages from embedded pod docs in files
+  1768	podchecker (1)       - check the syntax of POD format documentation files
+  1769	podselect (1p)       - print selected sections of pod documentation on standard output
+  1770	poff (1)             - starts up, shuts down or lists the log of PPP connections
+  1771	polenum (1)          - Extracts the password policy from a Windows system
+  1772	pompem (1)           - Exploit and Vulnerability Finder
+  1773	pon (1)              - starts up, shuts down or lists the log of PPP connections
+  1774	POST (1p)            - Simple command line user agent
+  1775	post-grohtml (1)     - HTML driver for groff
+  1776	ppm3d (1)            - convert two portable pixmap into a red/blue 3d glasses pixmap
+  1777	ppmbrighten (1)      - change an images Saturation and Value from an HSV map
+  1778	ppmchange (1)        - change all pixels of one color to another in a portable pixmap
+  1779	ppmcie (1)           - draw a CIE color chart as a PPM image
+  1780	ppmcolormask (1)     - produce mask of areas of a certain color in a PPM file
+  1781	ppmcolors (1)        - generate a color map of all colors of a certain maxval
+  1782	ppmdim (1)           - dim a portable pixmap down to total blackness
+  1783	ppmdist (1)          - simplistic grayscale assignment for machine generated, color images
+  1784	ppmdither (1)        - ordered dither for color images
+  1785	ppmfade (1)          - generate a transition between two image files using special effects.
+  1786	ppmflash (1)         - brighten a picture up to complete white-out
+  1787	ppmforge (1)         - fractal forgeries of clouds, planets, and starry skies
+  1788	ppmhist (1)          - print a histogram of a portable pixmap
+  1789	ppmlabel (1)         - add text to a portable pixmap
+  1790	ppmmake (1)          - create a pixmap of a specified size and color
+  1791	ppmmix (1)           - blend together two portable pixmaps
+  1792	ppmnorm (1)          - normalize the contrast in a Netbpm image
+  1793	ppmntsc (1)          - make a portable pixmap look like taken from an American TV
+  1794	ppmpat (1)           - make a pretty pixmap
+  1795	ppmquant (1)         - quantize the colors in a portable pixmap down to a specified number
+  1796	ppmquantall (1)      - run ppmquant on a bunch of files all at once, so they share a common colormap
+  1797	ppmqvga (1)          - 8 plane quantization
+  1798	ppmrainbow (1)       - Generate a rainbow
+  1799	ppmrelief (1)        - run a Laplacian relief filter on a portable pixmap
+  1800	ppmshadow (1)        - add simulated shadows to a portable pixmap image
+  1801	ppmshift (1)         - shift lines of a portable pixmap left or right by a random amount
+  1802	ppmspread (1)        - displace a portable pixmap's pixels by a random amount
+  1803	ppmtoacad (1)        - convert portable pixmap to AutoCAD database or slide
+  1804	ppmtobmp (1)         - convert a portable pixmap into a BMP file
+  1805	ppmtoeyuv (1)        - convert a portable pixmap into a Berkeley YUV file
+  1806	ppmtogif (1)         - convert a portable pixmap into a GIF file
+  1807	ppmtoicr (1)         - convert a portable pixmap into NCSA ICR format
+  1808	ppmtoilbm (1)        - convert a portable pixmap into an ILBM file
+  1809	ppmtojpeg (1)        - convert PNM image to a JFIF ("JPEG") image
+  1810	ppmtoleaf (1)        - convert portable pixmap to Interleaf image format
+  1811	ppmtolj (1)          - convert a portable pixmap to an HP LaserJet PCL 5 Color file
+  1812	ppmtomap (1)         - extract all colors from a portable pixmap
+  1813	ppmtomitsu (1)       - convert a portable pixmap to a Mitsubishi S340-10 file
+  1814	ppmtompeg (1)        - encodes MPEG-1 bitstreams
+  1815	ppmtoneo (1)         - convert a portable pixmap into an Atari Neochrome .neo file
+  1816	ppmtopcx (1)         - convert a portable pixmap into a PCX file
+  1817	ppmtopgm (1)         - convert a portable pixmap into a portable graymap
+  1818	ppmtopi1 (1)         - convert a portable pixmap into an Atari Degas .pi1 file
+  1819	ppmtopict (1)        - convert a portable pixmap into a Macintosh PICT file
+  1820	ppmtopj (1)          - convert a portable pixmap to an HP PaintJet file
+  1821	ppmtopuzz (1)        - convert a portable pixmap into an X11 "puzzle" file
+  1822	ppmtorgb3 (1)        - separate a portable pixmap into three portable graymaps
+  1823	ppmtosixel (1)       - convert a portable pixmap into DEC sixel format
+  1824	ppmtotga (1)         - convert portable pixmap into a TrueVision Targa file
+  1825	ppmtouil (1)         - convert a portable pixmap into a Motif UIL icon file
+  1826	ppmtowinicon (1)     - convert 1 or more portable pixmaps into a Windows .ico file
+  1827	ppmtoxpm (1)         - convert a portable pixmap into an X11 pixmap
+  1828	ppmtoyuv (1)         - convert a portable pixmap into an Abekas YUV file
+  1829	ppmtoyuvsplit (1)    - convert a portable pixmap into 3 subsampled raw YUV files
+  1830	ppmtv (1)            - make a portable pixmap look like taken from an American TV
+  1831	pr (1)               - convert text files for printing
+  1832	precat (1)           - prefix delta compressor for Aspell
+  1833	preconv (1)          - convert encoding of input files to something GNU troff understands
+  1834	pre-grohtml (1)      - HTML driver for groff
+  1835	preparetips5 (1)     - extract text from tips file
+  1836	preunzip (1)         - prefix delta compressor for Aspell
+  1837	prezip (1)           - prefix delta compressor for Aspell
+  1838	prezip-bin (1)       - prefix zip delta word list compressor/decompressor
+  1839	print (1)            - execute programs via entries in the mailcap file
+  1840	printafm (1)         - Print the metrics from a Postscript font in AFM format using ghostscript
+  1841	printenv (1)         - print all or part of environment
+  1842	printf (1)           - format and print data
+  1843	printf (3)           - formatted output conversion
+  1844	prlimit (1)          - get and set process resource limits
+  1845	vlimit (3)           - get/set resource limits
+  1846	prlimit (2)          - get/set resource limits
+  1847	procan (1)           - Multipurpose relay (SOcket CAT)
+  1848	profiles (1)         - A utility to report and change SIDs in registry files
+  1849	proj (1)             - Cartographic projection filter
+  1850	projinfo (1)         - Geodetic object and coordinate operation queries
+  1851	projsync (1)         - Downloading tool of resource files
+  1852	prove (1)            - Run tests through a TAP harness.
+  1853	proxy (1)            - Display the proxy server that should be used to reach a given a network resource
+  1854	proxychains (1)      - redirect connections through proxy servers
+  1855	proxychains3 (1)     - redirect connections through proxy servers
+  1856	proxytunnel (1)      - program to tunnel a connection through a standard HTTPS proxy
+  1857	prtstat (1)          - print statistics of a process
+  1858	prune (1)            - Prune directed graphs
+  1859	ps (1)               - report a snapshot of the current processes.
+  1860	ps2ascii (1)         - Ghostscript translator from PostScript or PDF to ASCII
+  1861	ps2epsi (1)          - generate conforming Encapsulated PostScript
+  1862	ps2pdf (1)           - Convert PostScript to PDF using ghostscript
+  1863	ps2pdf12 (1)         - Convert PostScript to PDF 1.2 (Acrobat 3-and-later compatible) using ghostscript
+  1864	ps2pdf13 (1)         - Convert PostScript to PDF 1.3 (Acrobat 4-and-later compatible) using ghostscript
+  1865	ps2pdf14 (1)         - Convert PostScript to PDF 1.4 (Acrobat 5-and-later compatible) using ghostscript
+  1866	ps2pdfwr (1)         - Convert PostScript to PDF without specifying CompatibilityLevel, using ghostscript
+  1867	ps2ps (1)            - Ghostscript PostScript "distiller"
+  1868	psbook (1)           - rearrange pages in PostScript file into signatures
+  1869	psfaddtable (1)      - add a Unicode character table to a console font
+  1870	psfgettable (1)      - extract the embedded Unicode character table from a console font
+  1871	psfstriptable (1)    - remove the embedded Unicode character table from a console font
+  1872	psfxtable (1)        - handle Unicode character tables for console fonts
+  1873	psidtopgm (1)        - convert PostScript "image" data into a portable graymap
+  1874	psjoin (1)           - psjoin
+  1875	psk-crack (1)        - Crack IKE Aggressive Mode Pre-Shared Keys
+  1876	psktool (1)          - GnuTLS PSK tool
+  1877	pslog (1)            - report current logs path of a process
+  1878	psmerge (1)          - filter to merge several PostScript files into one
+  1879	psnup (1)            - multiple pages per sheet
+  1880	psql (1)             - PostgreSQL interactive terminal
+  1881	psresize (1)         - rescales and centers a document for new output paper size
+  1882	psselect (1)         - select pages from a PostScript file
+  1883	pstopnm (1)          - convert a PostScript file into a portable anymap
+  1884	pstops (1)           - shuffle pages in a PostScript file
+  1885	pstree (1)           - display a tree of processes
+  1886	pstree.x11 (1)       - display a tree of processes
+  1887	ptar (1)             - a tar-like program written in perl
+  1888	ptardiff (1)         - program that diffs an extracted archive against an unextracted one
+  1889	ptargrep (1)         - Apply pattern matching to the contents of files in a tar archive
+  1890	ptked (1p)           - an editor in Perl/Tk
+  1891	ptksh (1p)           - Perl/Tk script to provide a graphical user interface for testing Perl/Tk commands and scripts.
+  1892	ptx (1)              - produce a permuted index of file contents
+  1893	pulseaudio (1)       - The PulseAudio Sound System
+  1894	pw-cat (1)           - Play and record media with PipeWire
+  1895	pw-cli (1)           - The PipeWire Command Line Interface
+  1896	pwd (1)              - print name of current/working directory
+  1897	pw-dot (1)           - The PipeWire dot graph dump
+  1898	pwdx (1)             - report current working directory of a process
+  1899	pw-inspector (1)     - A tool to reduce the password list
+  1900	pw-link (1)          - The PipeWire Link Command
+  1901	pw-metadata (1)      - The PipeWire metadata
+  1902	pw-mididump (1)      - The PipeWire MIDI dump
+  1903	pw-midiplay (1)      - Play and record media with PipeWire
+  1904	pw-midirecord (1)    - Play and record media with PipeWire
+  1905	pw-mon (1)           - The PipeWire monitor
+  1906	pw-play (1)          - Play and record media with PipeWire
+  1907	pw-profiler (1)      - The PipeWire profiler
+  1908	pw-record (1)        - Play and record media with PipeWire
+  1909	pw-top (1)           - The PipeWire process viewer
+  1910	py3clean (1)         - removes .pyc and .pyo files
+  1911	py3compile (1)       - byte compile Python 3 source files
+  1912	py3rsa-decrypt (1)   - decrypt a file
+  1913	py3rsa-encrypt (1)   - encrypt a file
+  1914	py3rsa-keygen (1)    - generate a new RSA keypair
+  1915	py3rsa-priv2pub (1)  - read a private key and output the corresponding public key
+  1916	py3rsa-sign (1)      - sign a file
+  1917	py3rsa-verify (1)    - verify a signature
+  1918	py3versions (1)      - print python3 version information
+  1919	pydoc3 (1)           - the Python documentation tool
+  1920	pygettext3 (1)       - Python equivalent of xgettext(1)
+  1921	pygmentize (1)       - highlights the input file
+  1922	pylupdate5 (1)       - create or update Qt Linguist translation files for PyQt5 applications
+  1923	pyrcc5 (1)           - compile Qt resource files for PyQt5 applications
+  1924	python3-config (1)   - output build options for python C/C++ extensions or embedding
+  1925	python3-qr (1)       - script to create QR codes at the command line
+  1926	python3-tor-prompt (8) - a stem direct access implementation to Tor's control interface
+  1927	python-argcomplete-check-easy-install-script3 (1) - python-argcomplete-check-easy-install-script - argcomplete utility script
+  1928	python-dotenv (1)    - .env file manipulator
+  1929	pyuic5 (1)           - compile Qt5 user interfaces to Python code
+  1930	qbittorrent (1)      - a Bittorrent client written in C++ / Qt
+  1931	qmicli (1)           - Control QMI devices
+  1932	qmi-firmware-update (1) - Update firmware in QMI devices
+  1933	qmi-network (1)      - Simple network management of QMI devices
+  1934	qr (1)               - script to create QR codes at the command line
+  1935	qrttoppm (1)         - convert output from the QRT ray tracer into a portable pixmap
+  1936	qtchooser (1)        - a wrapper used to select between Qt development binary versions
+  1937	querybts (1)         - view outstanding bug reports on a debbugs server
+  1938	qvlc (1)             - the VLC media player
+  1939	racc (1)             - Ruby LALR parser generator
+  1940	racc2y (1)           - Racc grammar to yacc grammar
+  1941	rackup (1)           - (unknown subject)
+  1942	rake (1)             - make-like build utility for Ruby
+  1943	randpkt (1)          - Random packet generator
+  1944	ranlib (1)           - generate an index to an archive
+  1945	rasttopnm (1)        - convert a Sun rasterfile into a portable anymap
+  1946	rawshark (1)         - Dump and analyze raw pcap data
+  1947	rawtopgm (1)         - convert raw grayscale bytes into a portable graymap
+  1948	rawtoppm (1)         - convert raw RGB bytes into a portable pixmap
+  1949	rbash (1)            - restricted bash, see bash(1)
+  1950	rclone (1)           - syncs your files to cloud storage
+  1951	rcp (1)              - OpenSSH secure file copy
+  1952	rctest (1)           - RFCOMM testing
+  1953	rdf2bin (1)          - convert an RDOFF object file to flat binary
+  1954	rdf2com (1)          - convert an RDOFF object file to flat binary
+  1955	rdf2ihx (1)          - convert an RDOFF object file to flat binary
+  1956	rdf2ith (1)          - convert an RDOFF object file to flat binary
+  1957	rdf2srec (1)         - convert an RDOFF object file to flat binary
+  1958	rdfdump (1)          - dumps an RDOFF object in human-readable form
+  1959	rdflib (1)           - manage a library file for use with ldrdf(1)
+  1960	rdjpgcom (1)         - display text comments from a JPEG file
+  1961	rdma (8)             - RDMA tool
+  1962	rdoc (1)             - Generate documentation from Ruby script files
+  1963	rdoc2.7 (1)          - Generate documentation from Ruby script files
+  1964	rdx (1)              - load and execute an RDOFF object
+  1965	readelf (1)          - display information about ELF files
+  1966	readlink (1)         - print resolved symbolic links or canonical file names
+  1967	readlink (2)         - read value of a symbolic link
+  1968	readpe (1)           - displays information about PE files
+  1969	realpath (1)         - print the resolved path
+  1970	realpath (3)         - return the canonicalized absolute pathname
+  1971	rearj (1)            - Converts other archive formats to .arj files
+  1972	reaver (1)           - WPS Cracker
+  1973	recode-sr-latin (1)  - convert Serbian text from Cyrillic to Latin script
+  1974	recon-cli (1)        - Allow the use of recon-ng from the command line
+  1975	recon-ng (1)         - Web Reconnaissance framework
+  1976	recountdiff (1)      - recompute patch counts and offsets
+  1977	recoverjpeg (1)      - recover jpeg pictures from a filesystem image
+  1978	recovermov (1)       - recover movies from a filesystem image
+  1979	rediff (1)           - fix offsets and counts of a hand-edited diff
+  1980	redis-benchmark (1)  - Benechmark a Redis instance
+  1981	redis-check-aof (1)  - Check integrity of a Redis .AOF file
+  1982	redis-check-rdb (1)  - Check integrity of Redis dumped database file
+  1983	redis-cli (1)        - Command-line client to redis-server
+  1984	redis-server (1)     - Persistent key-value database
+  1985	refer (1)            - preprocess bibliographic references for groff
+  1986	register-python-argcomplete3 (1) - register-python-argcomplete - argcomplete utility script
+  1987	reglookup (1)        - Windows NT+ registry reader/lookup tool
+  1988	reglookup-recover (1) - Windows NT+ registry deleted data recovery tool
+  1989	reglookup-timeline (1) - Windows NT+ registry MTIME timeline generator
+  1990	reindexdb (1)        - reindex a PostgreSQL database
+  1991	remmina (1)          - Remmina the GTK+ Remote Desktop Client
+  1992	remmina-file-wrapper (1) - (unknown subject)
+  1993	remmina-gnome (1)    - Script file to start common GNOME Shell interfaces
+  1994	remove-duplicates (1) - remove duplicates of the same file in the current directory
+  1995	rendercheck (1)      - simple tests of the X Render extension.
+  1996	renice (1)           - alter priority of running processes
+  1997	reordercap (1)       - Reorder input file by timestamp into output file
+  1998	reportbug (1)        - reports a bug to a debbugs server
+  1999	reset (1)            - terminal initialization
+  2000	RESET (7)            - restore the value of a run-time parameter to the default value
+  2001	resize (1)           - set environment and terminal settings to current xterm window size
+  2002	resizecons (8)       - change kernel idea of the console size
+  2003	resizepart (8)       - tell the kernel about the new size of a partition
+  2004	restclient (1)       - simple REST client for Ruby
+  2005	rev (1)              - reverse lines characterwise
+  2006	rfcomm (1)           - RFCOMM configuration utility
+  2007	rgb3toppm (1)        - combine three portable graymaps into one portable pixmap
+  2008	rgrep (1)            - print lines that match patterns
+  2009	ri (1)               - Ruby API reference front end
+  2010	ri2.7 (1)            - Ruby API reference front end
+  2011	rifiuti (1)          - tool to extract information from MS recycle bins info2 files.
+  2012	rifiuti2 (1)         - MS Windows recycle bin analysis tool
+  2013	rifiuti-vista (1)    - MS Windows recycle bin analysis tool
+  2014	rizin (1)            - Advanced commandline hexadecimal editor, disassembler and debugger
+  2015	rletopnm (1)         - convert a Utah Raster Tools RLE image file into a PNM image file.
+  2016	rlogin (1)           - OpenSSH remote login client
+  2017	rm (1)               - remove files or directories
+  2018	rmdir (1)            - remove empty directories
+  2019	rmdir (2)            - delete a directory
+  2020	rmic (1)             - Generates stub, skeleton, and tie classes for remote objects that use the Java Remote Method Protocol (JRMP) or Internet Inter-Orb protocol (IIOP). Also generates O...
+  2021	rmid (1)             - Starts the activation system daemon that enables objects to be registered and activated in a Java Virtual Machine (JVM).
+  2022	rmiregistry (1)      - Starts a remote object registry on the specified port on the current host.
+  2023	rnano (1)            - a restricted nano
+  2024	rngtest (1)          - Check the randomness of data using FIPS 140-2 tests
+  2025	roff2dvi (1)         - transform roff code into dvi mode
+  2026	roff2html (1)        - transform roff code into html mode
+  2027	roff2pdf (1)         - transform roff code into pdf mode
+  2028	roff2ps (1)          - transform roff code into ps mode
+  2029	roff2text (1)        - transform roff code into text mode
+  2030	roff2x (1)           - transform roff code into x mode
+  2031	rotatelogs (8)       - Piped logging program to rotate Apache logs
+  2032	routel (8)           - list routes with pretty output format
+  2033	rpcclient (1)        - tool for executing client side MS-RPC functions
+  2034	rpcgen (1)           - an RPC protocol compiler
+  2035	rq (1)               - RQ command line tool.
+  2036	rqinfo (1)           - Command line monitor for RQ
+  2037	rqworker (1)         - Command line monitor to start an RQ worker.
+  2038	rrsync (1)           - a script to setup restricted rsync users via ssh logins
+  2039	rsh (1)              - OpenSSH remote login client
+  2040	rst2html (1)         - convert reST documents to XHTML
+  2041	rst2html4 (1)        - convert reST documents to XHTML
+  2042	rst2html5 (1)        - convert reST documents to HTML 5
+  2043	rst2latex (1)        - convert reST documents to LaTeX
+  2044	rst2man (1)          - generate unix manpages from reStructured text
+  2045	rst2odt (1)          - convert reST documents to OpenDocument text (ODT)
+  2046	rst2odt_prepstyles (1) - strip paper size specifications off of rst2odt stylesheets
+  2047	rst2pseudoxml (1)    - convert reST documents to pseudo-XML
+  2048	rst2s5 (1)           - convert reST documents to S5 slides
+  2049	rst2xetex (1)        - convert reST documents to XeLaTeX
+  2050	rst2xml (1)          - convert reST documents to XML
+  2051	rstart (1)           - a sample implementation of a Remote Start client
+  2052	rstartd (1)          - a sample implementation of a Remote Start rsh helper
+  2053	rst-buildhtml (1)    - convert many reST documents to HTML
+  2054	rstpep2html (1)      - convert reST Python Enhancement Proposals to HTML
+  2055	rsync (1)            - a fast, versatile, remote (and local) file-copying tool
+  2056	rsync-ssl (1)        - a helper script for connecting to an ssl rsync daemon
+  2057	rtl_adsb (1)         - a simple ADS-B decoder
+  2058	rtl_biast (1)        - a tool for turning the RTL-SDR.com bias tee or any GPIO ON and OFF.
+  2059	rtl_eeprom (1)       - EEPROM programming tool for RTL2832 based DVB-T receivers
+  2060	rtl_fm (1)           - a simple FM demodulator for RTL2832 based DVB-T receivers
+  2061	rtl_power (1)        - wideband spectrum monitor utility
+  2062	rtl_sdr (1)          - an I/Q recorder for RTL2832 based DVB-T receivers
+  2063	rtl_tcp (1)          - an I/Q spectrum server for RTL2832 based DVB-T receivers
+  2064	rtl_test (1)         - a benchmark tool for RTL2832 based DVB-T receivers
+  2065	rtstat (8)           - unified linux network statistics
+  2066	ruby (1)             - Interpreted object-oriented scripting language
+  2067	ruby2.7 (1)          - Interpreted object-oriented scripting language
+  2068	rubydns-check (1)    - test and check DNS servers.
+  2069	runcon (1)           - run command with specified security context
+  2070	run-mailcap (1)      - execute programs via entries in the mailcap file
+  2071	run-parts (8)        - run scripts or programs in a directory
+  2072	run-with-aspell (1)  - script to help use GNU Aspell as an ispell replacement
+  2073	rva2ofs (1)          - converts a PE relative virtual address to raw file offset
+  2074	rview (1)            - Vi IMproved, a programmer's text editor
+  2075	rvim (1)             - Vi IMproved, a programmer's text editor
+  2076	rvlc (1)             - the VLC media player
+  2077	rz-asm (1)           - rizin assembler and disassembler tool
+  2078	rz-ax (1)            - rizin base converter
+  2079	rz-bin (1)           - Binary program info extractor
+  2080	rz-diff (1)          - unified binary diffing utility
+  2081	rz-find (1)          - Advanced commandline hexadecimal editor
+  2082	rz-gg (1)            - rizin frontend for r_egg, compile programs into tiny binaries for x86-32/64 and arm.
+  2083	rz-hash (1)          - block based hashing utility
+  2084	rz-run (1)           - rizin utility to run programs in exotic environments
+  2085	rz-sign (1)          - rizin zignature utility
+  2086	s3backer (1)         - FUSE-based single file backing store via Amazon S3
+  2087	sadf (1)             - Display data collected by sar in multiple formats.
+  2088	safecopy (1)         - rescue data from a source that causes IO errors
+  2089	samba-regedit (8)    - ncurses based tool to manage the Samba registry
+  2090	samba-tool (8)       - Main Samba administration tool.
+  2091	samdump2 (1)         - retrieves syskey and extract hashes from Windows 2k/NT/XP/Vista SAM.
+  2092	sar (1)              - Collect, report, or save system activity information.
+  2093	sar.sysstat (1)      - Collect, report, or save system activity information.
+  2094	savelog (8)          - save a log file
+  2095	sbigtopgm (1)        - convert an SBIG CCDOPS file into a portable graymap
+  2096	scalar (1)           - A tool for managing large Git repositories
+  2097	scalpel (1)          - Recover files using a header/footer database
+  2098	scantool (1)         - ODB-II vehicle diagnostic scanner
+  2099	scapy (1)            - Interactive packet manipulation tool
+  2100	scapy3 (1)           - Interactive packet manipulation tool
+  2101	sccmap (1)           - extract strongly connected components of directed graphs
+  2102	sc-hsm-tool (1)      - smart card utility for SmartCard-HSM
+  2103	scp (1)              - OpenSSH secure file copy
+  2104	screen (1)           - screen manager with VT100/ANSI terminal emulation
+  2105	screendump (1)       - dump the contents of a virtual console to stdout
+  2106	script (1)           - make typescript of terminal session
+  2107	scriptlive (1)       - re-run session typescripts, using timing information
+  2108	scriptreplay (1)     - play back typescripts, using timing information
+  2109	sdiff (1)            - (unknown subject)
+  2110	sdptool (1)          - control and interrogate SDP servers
+  2111	secon (1)            - See an SELinux context, from a file, program or user input.
+  2112	sed (1)              - stream editor for filtering and transforming text
+  2113	see (1)              - execute programs via entries in the mailcap file
+  2114	select-default-iwrap (1) - Selects the user default ispell dictionary for use with ispell-wrapper
+  2115	select-editor (1)    - select your default sensible-editor from all installed editors
+  2116	sensible-browser (1) - sensible web browsing
+  2117	sensible-editor (1)  - sensible editing
+  2118	sensible-pager (1)   - (unknown subject)
+  2119	sensors (1)          - print sensors information
+  2120	sensors-conf-convert (8) - sensors configuration conversion
+  2121	seq (1)              - print a sequence of numbers
+  2122	serialver (1)        - Returns the serial version UID for specified classes.
+  2123	sessreg (1)          - manage utmpx/wtmpx entries for non-init clients
+  2124	setarch (8)          - change reported architecture in new program environment and/or set personality flags
+  2125	setfattr (1)         - set extended attributes of filesystem objects
+  2126	setfont (8)          - load EGA/VGA console screen font
+  2127	setkeycodes (8)      - load kernel scancode-to-keycode mapping table entries
+  2128	setleds (1)          - set the keyboard leds
+  2129	setlogcons (8)       - Send kernel messages to console N
+  2130	setmetamode (1)      - define the keyboard meta key handling
+  2131	setpci (8)           - configure PCI devices
+  2132	setpriv (1)          - run a program with different Linux privilege settings
+  2133	setsid (1)           - run a program in a new session
+  2134	setsid (2)           - creates a session and sets the process group ID
+  2135	setterm (1)          - set terminal attributes
+  2136	setupcon (1)         - sets up the font and the keyboard on the console
+  2137	setvtrgb (8)         - set the virtual terminal RGB colors
+  2138	setvtrgb (1)         - customize the console color map
+  2139	setxkbmap (1)        - set the keyboard using the X Keyboard Extension
+  2140	sfdp (1)             - filter for drawing large undirected graphs
+  2141	sftp (1)             - OpenSSH secure file transfer
+  2142	sg (1)               - execute command as different group ID
+  2143	sgitopnm (1)         - convert a SGI image file to a portable anymap
+  2144	sh (1)               - command interpreter (shell)
+  2145	sha1deep (1)         - Compute and compare SHA-1 message digests
+  2146	sha1sum (1)          - compute and check SHA1 message digest
+  2147	sha224sum (1)        - compute and check SHA224 message digest
+  2148	sha256deep (1)       - Compute and compare SHA-256 message digests
+  2149	sha256sum (1)        - compute and check SHA256 message digest
+  2150	sha384sum (1)        - compute and check SHA384 message digest
+  2151	sha512sum (1)        - compute and check SHA512 message digest
+  2152	shares-admin (1)     - Shared Folders Administration Tool
+  2153	sharesec (1)         - Set or get share ACLs
+  2154	shasum (1)           - Print or Check SHA Checksums
+  2155	showchar (1)         - show character with information
+  2156	showconsolefont (8)  - Show the current EGA/VGA console screen font
+  2157	showfigfonts (6)     - prints a list of available figlet fonts
+  2158	showkey (1)          - examine the codes sent by the keyboard
+  2159	showrgb (1)          - display an rgb color-name database
+  2160	shred (1)            - overwrite a file to hide its contents, and optionally delete it
+  2161	shuf (1)             - generate random permutations
+  2162	siege (1)            - An HTTP/FTP load tester and benchmarking utility.
+  2163	siege2csv (1)        - Run siege with an ever-increasing number of users
+  2164	siege.config (1)     - builds a siege.conf template in the user's home directory.
+  2165	sigfind (1)          - Find a binary signature in a file
+  2166	sipcrack (1)         - A suite of tools to sniff and crack the digest authentications within the SIP protocol.
+  2167	sipdump (1)          - Part of SIPcrack, A suite of tools to sniff and crack the digest authentications within the SIP protocol.
+  2168	SIPdump (1)          - Part of SIPcrack, A suite of tools to sniff and crack the digest authentications within the SIP protocol.
+  2169	sirikali (1)         - - manage user encrypted volumes
+  2170	sirikali.pkexec (1)  - - SiriKali internal helper tool
+  2171	sirtopnm (1)         - convert a Solitaire file into a portable anymap
+  2172	size (1)             - list section sizes and total size of binary files
+  2173	skill (1)            - send a signal or report process status
+  2174	slabtop (1)          - display kernel slab cache information in real time
+  2175	slcan_attach (1)     - manual page for slcan_attach 2020.11.0-1
+  2176	slcand (1)           - manual page for slcand 2020.11.0-1
+  2177	slcanpty (1)         - manual page for slcanpty 2020.11.0-1
+  2178	sldtoppm (1)         - convert an AutoCAD slide file into a portable pixmap
+  2179	sleep (1)            - delay for a specified amount of time
+  2180	sleep (3)            - sleep for a specified number of seconds
+  2181	slick-greeter-check-hidpi (1) - distro agnostic LightDM greeter
+  2182	slick-greeter-set-keyboard-layout (1) - switch keyboard layout
+  2183	slogin (1)           - OpenSSH remote login client
+  2184	slowhttptest (1)     - Denial Of Service attacks simulator
+  2185	smbcacls (1)         - Set or get ACLs on an NT file or directory names
+  2186	smbclient (1)        - ftp-like client to access SMB/CIFS resources on servers
+  2187	smbcontrol (1)       - send messages to smbd, nmbd or winbindd processes
+  2188	smbcquotas (1)       - Set or get QUOTAs of NTFS 5 shares
+  2189	smbget (1)           - wget-like utility for download files over SMB
+  2190	smbmap (1)           - SMB enumeration tool
+  2191	smbpasswd (5)        - The Samba encrypted password file
+  2192	smbpasswd (8)        - change a user's SMB password
+  2193	smbspool (8)         - send a print file to an SMB printer
+  2194	smbstatus (1)        - report on current Samba connections
+  2195	smbtar (1)           - shell script for backing up SMB/CIFS shares directly to UNIX tape drives
+  2196	smbtree (1)          - A text based smb network browser
+  2197	smproxy (1)          - Session Manager Proxy
+  2198	snice (1)            - send a signal or report process status
+  2199	sniffjoke-autotest (1) - (unknown subject)
+  2200	sniffjokectl (1)     - (unknown subject)
+  2201	snmp-check (1)       - SNMP device enumerator
+  2202	snmpkey (1p)         - Create SNMPv3 security keys for the Net::SNMP module
+  2203	sntp (1)             - standard Simple Network Time Protocol client program
+  2204	socat (1)            - Multipurpose relay (SOcket CAT)
+  2205	soelim (1)           - interpret .so requests in groff input
+  2206	sort (1)             - sort lines of text files
+  2207	sort-dctrl (1)       - sort Debian control files
+  2208	sorter (1)           - Sort files in an image into categories based on file type
+  2209	sort-pictures (1)    - sort pictures according to exif date
+  2210	sp32 (1)             - word generator based on per-position Markov chains
+  2211	sp64 (1)             - word generator based on per-position Markov chains
+  2212	spawn-fcgi (1)       - Spawns FastCGI processes
+  2213	spctoppm (1)         - convert an Atari compressed Spectrum file into a portable pixmap
+  2214	spd-conf (1)         - configure Speech Dispatcher and diagnose problems
+  2215	spd-say (1)          - send text-to-speech output request to speech-dispatcher
+  2216	speaker-test (1)     - command-line speaker test tone generator for ALSA
+  2217	speech-dispatcher (1) - speech synthesis daemon
+  2218	spellintian (1)      - simple spellchecker based on Lintian's data files
+  2219	spice-vdagent (1)    - Spice guest agent X11 session agent
+  2220	splain (1)           - produce verbose warning diagnostics
+  2221	split (1)            - split a file into pieces
+  2222	splitdiff (1)        - separate out incremental patches
+  2223	splitfont (1)        - extract characters from an ISO-type font.
+  2224	sponge (1)           - soak up standard input and write to a file
+  2225	sprof (1)            - read and display shared object profiling data
+  2226	sputoppm (1)         - convert an Atari uncompressed Spectrum file into a portable pixmap
+  2227	sqldiff (1)          - sqlite3 database difference utility
+  2228	sqlite3 (1)          - A command line interface for SQLite version 3
+  2229	sqlmap (1)           - automatic SQL injection tool
+  2230	sqlmapapi (1)        - automatic SQL injection tool, api server
+  2231	srch_strings (1)     - display printable strings in files
+  2232	srptool (1)          - GnuTLS SRP tool
+  2233	ss (8)               - another utility to investigate sockets
+  2234	ssh (1)              - OpenSSH remote login client
+  2235	ssh-add (1)          - adds private key identities to the OpenSSH authentication agent
+  2236	ssh-agent (1)        - OpenSSH authentication agent
+  2237	ssh-argv0 (1)        - replaces the old ssh command-name as hostname handling
+  2238	ssh-copy-id (1)      - use locally available keys to authorise logins on a remote machine
+  2239	ssh-keygen (1)       - OpenSSH authentication key utility
+  2240	ssh-keyscan (1)      - gather SSH public keys from servers
+  2241	sshpass (1)          - noninteractive ssh password provider
+  2242	sshtunnel (1)        - SSH tunnels to remote server
+  2243	sslscan (1)          - Fast SSL/TLS scanner
+  2244	sslsniff (1)         - SSL/TLS man-in-the-middle attack tool
+  2245	sslsplit (1)         - - transparent SSL/TLS interception
+  2246	st4topgm (1)         - convert an SBIG ST4 format file into a portable graymap
+  2247	start-pulseaudio-x11 (1) - PulseAudio Sound Server X11 Startup Script
+  2248	startx (1)           - initialize an X session
+  2249	stat (1)             - display file or file system status
+  2250	stat (2)             - get file status
+  2251	statfs (1)           - dump the statfs(2) information for PATH to console in JSON format.
+  2252	statfs (2)           - get filesystem statistics
+  2253	stdbuf (1)           - Run COMMAND, with modified buffering operations for its standard streams.
+  2254	stl2gts (1)          - convert an STL file to GTS format.
+  2255	streamzip (1)        - create a zip file from stdin
+  2256	strings (1)          - print the sequences of printable characters in files
+  2257	strip (1)            - discard symbols and other data from object files
+  2258	stty (1)             - change and print terminal line settings
+  2259	stty (2)             - unimplemented system calls
+  2260	stunnel (8)          - TLS offloading and load-balancing proxy
+  2261	stunnel3 (8)         - universal SSL tunnel
+  2262	stunnel4 (8)         - TLS offloading and load-balancing proxy
+  2263	su (1)               - run a command with substitute user and group ID
+  2264	sucrack (1)          - is a multithreaded Linux/UNIX tool for brute-force cracking of local user accounts via su.
+  2265	sudo (8)             - execute a command as another user
+  2266	sudoedit (8)         - execute a command as another user
+  2267	sudoreplay (8)       - replay sudo session logs
+  2268	sum (1)              - checksum and count the blocks in a file
+  2269	su-to-root (1)       - A simple script to give an `interactive' front-end to su. It can be used in menu entry commands to ask for the root password
+  2270	svcrack (1)          - online password guessing tool for SIP devices
+  2271	svcrash (1)          - stop unauthorized scans from svcrack/svwar tool
+  2272	svlc (1)             - the VLC media player
+  2273	svmap (1)            - scanner that searches for SIP devices on a given network
+  2274	svn (1)              - Subversion command line client tool
+  2275	svnadmin (1)         - Subversion repository administration tool
+  2276	svndumpfilter (1)    - Filter a subversion repository 'dumpfile'.
+  2277	svnlook (1)          - Subversion repository examination tool
+  2278	svnmucc (1)          - Multiple URL Command Client for Subversion
+  2279	svnrdump (1)         - Subversion remote repository dumper and loader
+  2280	svnserve (8)         - Server for the 'svn' repository access method
+  2281	svnsync (1)          - Subversion repository synchronization tool
+  2282	svnversion (1)       - Produce a compact version identifier for a working copy.
+  2283	svreport (1)         - report engine manage sessions from previous scans with SIPVicious
+  2284	svwar (1)            - extension line scanner
+  2285	swaks (1)            - Swiss Army Knife SMTP, the all-purpose SMTP transaction tester
+  2286	sync (1)             - Synchronize cached writes to persistent storage
+  2287	sync (2)             - commit filesystem caches to disk
+  2288	synclient (1)        - commandline utility to query and modify Synaptics driver options.
+  2289	syndaemon (1)        - a program that monitors keyboard activity and disables the touchpad when the keyboard is being used.
+  2290	systemctl (1)        - Control the systemd system and service manager
+  2291	systemd (1)          - systemd system and service manager
+  2292	systemd-analyze (1)  - Analyze and debug system manager
+  2293	systemd-ask-password (1) - Query the user for a system password
+  2294	systemd-cat (1)      - Connect a pipeline or program's output with the journal
+  2295	systemd-cgls (1)     - Recursively show control group contents
+  2296	systemd-cgtop (1)    - Show top control groups by their resource usage
+  2297	systemd-creds (1)    - Lists, shows, encrypts and decrypts service credentials
+  2298	systemd-cryptenroll (1) - Enroll PKCS#11, FIDO2, TPM2 token/devices to LUKS2 encrypted volumes
+  2299	systemd-delta (1)    - Find overridden configuration files
+  2300	systemd-detect-virt (1) - Detect execution in a virtualized environment
+  2301	systemd-escape (1)   - Escape strings for usage in systemd unit names
+  2302	systemd-firstboot (1) - Initialize basic system settings on or before the first boot-up of a system
+  2303	systemd-hwdb (8)     - hardware database management tool
+  2304	systemd-id128 (1)    - Generate and print sd-128 identifiers
+  2305	systemd-inhibit (1)  - Execute a program with an inhibition lock taken
+  2306	systemd-machine-id-setup (1) - Initialize the machine ID in /etc/machine-id
+  2307	systemd-mount (1)    - Establish and destroy transient mount or auto-mount points
+  2308	systemd-notify (1)   - Notify service manager about start-up completion and other daemon status changes
+  2309	systemd-path (1)     - List and query system and user paths
+  2310	systemd-repart (8)   - Automatically grow and add partitions
+  2311	systemd-run (1)      - Run programs in transient scope units, service units, or path-, socket-, or timer-triggered service units
+  2312	systemd-socket-activate (1) - Test socket activation of daemons
+  2313	systemd-stdio-bridge (1) - D-Bus proxy
+  2314	systemd-sysext (8)   - Activates System Extension Images
+  2315	systemd-sysusers (8) - Allocate system users and groups
+  2316	systemd-tmpfiles (8) - Creates, deletes and cleans up volatile and temporary files and directories
+  2317	systemd-tty-ask-password-agent (1) - List or process pending systemd password requests
+  2318	systemd-umount (1)   - Establish and destroy transient mount or auto-mount points
+  2319	t1ascii (1)          - convert PostScript Type 1 font from binary to ASCII
+  2320	t1asm (1)            - assemble PostScript Type 1 font
+  2321	t1binary (1)         - convert PostScript Type 1 font from ASCII to binary
+  2322	t1disasm (1)         - disassemble PostScript Type 1 font
+  2323	t1mac (1)            - translate a PFA or PFB PostScript Type 1 font into Macintosh format
+  2324	t1unmac (1)          - translate a Mac PostScript Type 1 font into PFA or PFB format
+  2325	tabs (1)             - set tabs on a terminal
+  2326	tabulate (1)         - Pretty-print tabulate data.
+  2327	tac (1)              - concatenate and print files in reverse
+  2328	tail (1)             - output the last part of files
+  2329	tapestat (1)         - Report tape statistics.
+  2330	tar (1)              - an archiving utility
+  2331	tasksel (8)          - a user interface for installing tasks
+  2332	taskset (1)          - set or retrieve a process's CPU affinity
+  2333	tbl (1)              - format tables for troff
+  2334	tbl-dctrl (1)        - generate tabular representations of data in dctrl format
+  2335	tclsh (1)            - Simple shell containing Tcl interpreter
+  2336	tclsh8.6 (1)         - Simple shell containing Tcl interpreter
+  2337	tcpbridge (1)        - Bridge network traffic across two interfaces
+  2338	tcpcapinfo (1)       - Pcap file dissector for debugging broken pcap files
+  2339	tcpdump (8)          - dump traffic on a network
+  2340	tcpflow (1)          - TCP flow recorder
+  2341	tcpliveplay (1)      - Replays network traffic stored in a pcap file on live networks using new TCP connections
+  2342	tcpprep (1)          - Create a tcpreplay cache cache file from a pcap file.
+  2343	tcpreplay (1)        - Replay network traffic stored in pcap files
+  2344	tcpreplay-edit (1)   - Replay network traffic stored in pcap files
+  2345	tcprewrite (1)       - Rewrite the packets in a pcap file.
+  2346	tdbbackup (8)        - tool for backing up and for validating the integrity of samba .tdb files
+  2347	tdbbackup.tdbtools (8) - tool for backing up and for validating the integrity of samba .tdb files
+  2348	tdbdump (8)          - tool for printing the contents of a TDB file
+  2349	tdbrestore (8)       - tool for creating a TDB file out of a tdbdump output
+  2350	tdbtool (8)          - manipulate the contents TDB files
+  2351	tee (1)              - read from standard input and write to standard output and files
+  2352	tee (2)              - duplicating pipe content
+  2353	telnet (1)           - user interface to the TELNET protocol
+  2354	telnet.netkit (1)    - user interface to the TELNET protocol
+  2355	tempfile (1)         - create a temporary file in a safe manner
+  2356	teredo-mire (1)      - Stateless Teredo IPv6 responder
+  2357	x-terminal-emulator (1) - Multiple GNOME terminals in one window
+  2358	terminator (1)       - Multiple GNOME terminals in one window
+  2359	test (1)             - check file types and compare values
+  2360	testj1939 (1)        - manual page for testj1939 2020.11.0-1
+  2361	testparm (1)         - check an smb.conf configuration file for internal correctness
+  2362	text2pcap (1)        - Generate a capture file from an ASCII hexdump of packets
+  2363	tfmtodit (1)         - create font files for use with groff -Tdvi
+  2364	tgatoppm (1)         - convert TrueVision Targa file into a portable pixmap
+  2365	tgz (1)              - makes a gzip'd tar archive
+  2366	thin (1)             - fast and very simple Ruby web server
+  2367	thinkjettopbm (1)    - convert HP ThinkJet printer commands file to PBM
+  2368	tic (1)              - the terminfo entry-description compiler
+  2369	tifftopnm (1)        - convert a TIFF file into a portable anymap
+  2370	tigerdeep (1)        - Compute and compare Tiger message digests
+  2371	tilt (1)             - Generic interface to multiple Ruby template engines
+  2372	time-admin (1)       - Time Administration Tool
+  2373	timedatectl (1)      - Control the system time and date
+  2374	timeout (1)          - run a command with a time limit
+  2375	tjbench (1)          - benchmark the performance of libjpeg-turbo
+  2376	tkjpeg (1p)          - simple JPEG viewer using perl/Tk
+  2377	tload (1)            - graphic representation of system load average
+  2378	tmux (1)             - terminal multiplexer
+  2379	toe (1)              - table of (terminfo) entries
+  2380	top (1)              - display Linux processes
+  2381	tor (1)              - The second-generation onion router
+  2382	torbrowser-launcher (1) - helps download and run the Tor Browser Bundle
+  2383	tor-gencert (1)      - Generate certs and keys for Tor directory authorities
+  2384	torify (1)           - wrapper for torsocks and tor
+  2385	tor-print-ed-signing-cert (1) - print expiration date of ed25519 signing certificate
+  2386	tor-prompt (8)       - a stem direct access implementation to Tor's control interface
+  2387	tor-resolve (1)      - resolve a hostname to an IP address via tor
+  2388	torsocks (8)         - Library for intercepting outgoing network connections and redirecting them through the Tor SOCKS proxy.
+  2389	torsocks (1)         - Shell wrapper to simplify the use of the torsocks(8) library to transparently torify an application.
+  2390	touch (1)            - change file timestamps
+  2391	tput (1)             - initialize a terminal or query terminfo database
+  2392	tqdm (1)             - fast, extensible progress bar for Python and CLI
+  2393	tr (1)               - translate or delete characters
+  2394	traceproto (1)       - print the route packets trace to network host
+  2395	traceproto.db (1)    - print the route packets trace to network host
+  2396	traceroute (1)       - print the route packets trace to network host
+  2397	tcptraceroute (8)    - print the route packets trace to network host
+  2398	traceroute6 (1)      - print the route packets trace to network host
+  2399	traceroute6.db (1)   - print the route packets trace to network host
+  2400	traceroute.db (1)    - print the route packets trace to network host
+  2401	traceroute-nanog (1) - print the route packets trace to network host
+  2402	transform (1)        - apply geometric transformations to the input.
+  2403	transset (1)         - Set transparency on a window
+  2404	tred (1)             - transitive reduction filter for directed graphs
+  2405	tree (1)             - list contents of directories in a tree-like format.
+  2406	troff (1)            - the troff processor of the groff text formatting system
+  2407	true (1)             - do nothing, successfully
+  2408	truecrack (1)        - Brute-force password cracker for TrueCrypt (Copyright) volumes.
+  2409	truncate (1)         - shrink or extend the size of a file to the specified size
+  2410	truncate (2)         - truncate a file to a specified length
+  2411	TRUNCATE (7)         - empty a table or set of tables
+  2412	trust (1)            - Tool for operating on the trust policy store
+  2413	ts (1)               - timestamp input
+  2414	ts (1ssl)            - Time Stamping Authority tool (client/server)
+  2415	tset (1)             - terminal initialization
+  2416	tshark (1)           - Dump and analyze network traffic
+  2417	tsk_comparedir (1)   - compare the contents of a directory with the contents of an image or local device.
+  2418	tsk_gettimes (1)     - Collect MAC times from a disk image into a body file.
+  2419	tsk_loaddb (1)       - populate a SQLite database with metadata from a disk image
+  2420	tsk_recover (1)      - Export files from an image into a local directory
+  2421	tsort (1)            - perform topological sort
+  2422	tty (1)              - print the file name of the terminal connected to standard input
+  2423	tty (4)              - controlling terminal
+  2424	twopi (1)            - filter for radial layouts of graphs
+  2425	tzselect (8)         - select a timezone
+  2426	tzselect (1)         - view timezones
+  2427	ubertooth-afh (1)    - passive detection of AFH channel map
+  2428	ubertooth-btle (1)   - Bluetooth Low Energy (BLE) sniffing and more
+  2429	ubertooth-debug (1)  - Classic Bluetooth discovery, sniffing, and decoding
+  2430	ubertooth-dfu (1)    - Device firmware update for Ubertooth
+  2431	ubertooth-dump (1)   - output a continuous stream of received bits
+  2432	ubertooth-ego (1)    - Yuneec E-GO skateboard sniffing
+  2433	ubertooth-follow (1) - CLK discovery and follow for a particular UAP/LAP
+  2434	ubertooth-rx (1)     - Classic Bluetooth discovery, sniffing, and decoding
+  2435	ubertooth-scan (1)   - Scan frequency band active (Bluez) device scan and inquiry supported by Ubertooth
+  2436	ubertooth-specan (1) - a spectrum analyzer for Ubertooth
+  2437	ubertooth-specan-ui (1) - spectrum analyzer for the 2.4 GHz ISM band
+  2438	ubertooth-util (1)   - general purpose Ubertooth utility
+  2439	ucf (1)              - Update Configuration File: preserve user changes in configuration files
+  2440	ucfq (1)             - query the ucf database
+  2441	ucfr (1)             - Update Configuration File Registry: associate packages with configuration files
+  2442	ucs2any (1)          - generate BDF fonts containing subsets of ISO 10646-1 codepoints
+  2443	udevadm (8)          - udev management tool
+  2444	udisksctl (1)        - The udisks command line tool
+  2445	udptunnel (1)        - Tunnel UDP packets over a TCP connection
+  2446	ul (1)               - do underlining
+  2447	umount (8)           - unmount filesystems
+  2448	umount (2)           - unmount filesystem
+  2449	unafs (8)            - script to warn users about their weak passwords
+  2450	uname (1)            - print system information
+  2451	uname (2)            - get name and information about current kernel
+  2452	uncompress (1)       - compress or expand files
+  2453	uncompress.real (1)  - compress and expand data
+  2454	unexpand (1)         - convert spaces to tabs
+  2455	unflatten (1)        - adjust directed graphs to improve layout aspect ratio
+  2456	unicode_start (1)    - put keyboard and console in unicode mode
+  2457	unicode_stop (1)     - revert keyboard and console from unicode mode
+  2458	uniq (1)             - report or omit repeated lines
+  2459	unique (8)           - removes duplicates from a wordlist
+  2460	unix2dos (1)         - DOS/Mac to Unix and vice versa text file format converter
+  2461	unix2mac (1)         - DOS/Mac to Unix and vice versa text file format converter
+  2462	unlink (1)           - call the unlink function to remove the specified file
+  2463	unlink (2)           - delete a name and possibly the file it refers to
+  2464	unlzma (1)           - Compress or decompress .xz and .lzma files
+  2465	unmkinitramfs (8)    - extract content from an initramfs image
+  2466	unopkg (1)           - LibreOffice Extension Manager
+  2467	unpack200 (1)        - Transforms a packed file produced by pack200(1) into a JAR file for web deployment.
+  2468	unpigz (1)           - compress or expand files
+  2469	unshadow (8)         - combines passwd and shadow files
+  2470	unshare (1)          - run program in new namespaces
+  2471	unshare (2)          - disassociate parts of the process execution context
+  2472	unsquashfs (1)       - tool to uncompress squashfs filesystems
+  2473	unwrapdiff (1)       - demangle word-wrapped patches
+  2474	unxz (1)             - Compress or decompress .xz and .lzma files
+  2475	unzip (1)            - list, test and extract compressed files in a ZIP archive
+  2476	unzipsfx (1)         - self-extracting stub for prepending to ZIP archives
+  2477	update-alternatives (1) - maintain symbolic links determining default commands
+  2478	update-desktop-database (1) - Build cache database of MIME types handled by desktop files
+  2479	update-leap (1)      - leap-seconds file manager/updater
+  2480	update-menus (1)     - generate Debian menu system
+  2481	update-mime-database (1) - a program to build the Shared MIME-Info database cache
+  2482	update-perl-sax-parsers (8) - (de)register Perl SAX parser modules
+  2483	upower (1)           - UPower command line tool
+  2484	UPower (7)           - System-wide Power Management
+  2485	uptime (1)           - Tell how long the system has been running.
+  2486	upx (1)              - compress or expand executable files
+  2487	upx-ucl (1)          - compress or expand executable files
+  2488	usb-devices (1)      - print USB device details
+  2489	usbhid-dump (8)      - dump USB HID device report descriptors and streams
+  2490	users (1)            - print the user names of users currently logged in to the current host
+  2491	users-admin (1)      - Users Administration Tool
+  2492	usleep (3)           - suspend execution for microsecond intervals
+  2493	usnjls (1)           - List the contents of a NTFS Update Sequence Number journal
+  2494	utmpdump (1)         - dump UTMP and WTMP files in raw format
+  2495	uuidgen (1)          - create a new UUID value
+  2496	uuidparse (1)        - a utility to parse unique identifiers
+  2497	uxterm (1)           - X terminal emulator for Unicode (UTF-8) environments
+  2498	uz (1)               - gunzips and extracts a gzip'd tar'd archive
+  2499	vacuumdb (1)         - garbage-collect and analyze a PostgreSQL database
+  2500	vacuumlo (1)         - remove orphaned large objects from a PostgreSQL database
+  2501	VBoxClient (1)       - x86 virtualization solution
+  2502	vdir (1)             - list directory contents
+  2503	vidir (1)            - edit directories and filenames
+  2504	viewres (1)          - graphical class browser for Xt
+  2505	vim (1)              - Vi IMproved, a programmer's text editor
+  2506	vimdiff (1)          - edit two, three or four versions of a file with Vim and show differences
+  2507	vimdot (1)           - Combined text editor and dot viewer
+  2508	vinetto (1)          - extract thumbnails and associated metadata from Thumbs.db files
+  2509	vipe (1)             - edit pipe
+  2510	vlc (1)              - the VLC media player
+  2511	vlc-wrapper (1)      - a wrapper to drop privileges with VLC
+  2512	vmstat (8)           - Report virtual memory statistics
+  2513	vmware-checkvm (1)   - Check if running in a VM or not
+  2514	vmware-toolbox-cmd (1) - GUI toolbox (commandline version)
+  2515	vmware-user-suid-wrapper (1) - wrapper programm for vmware-user(1)
+  2516	vmware-xferlogs (1)  - dump vm-support output to vmx logfile
+  2517	vokoscreenNG (1)     - user friendly Open Source screencast
+  2518	w (1)                - Show who is logged on and what they are doing.
+  2519	wafw00f (8)          - Identify and fingerprint Web Application Firewall products
+  2520	wakeonlan (1)        - Perl script to wake up computers
+  2521	wall (1)             - write a message to all users
+  2522	watch (1)            - execute a program periodically, showing output fullscreen
+  2523	watchgnupg (1)       - Read and print logs from a socket
+  2524	wbmptopbm (1)        - convert a wireless bitmap (wbmp) file to a portable bitmap (pbm)
+  2525	wc (1)               - print newline, word, and byte counts for each file
+  2526	wdctl (8)            - show hardware watchdog status
+  2527	websploit (1)        - Advanced MITM Framework
+  2528	weevely (1)          - Weaponized web shell
+  2529	westcos-tool (1)     - utility for manipulating data structures on westcos smart cards
+  2530	wfuzz (1)            - a web application bruteforcer
+  2531	wget (1)             - The non-interactive network downloader.
+  2532	whatis (1)           - display one-line manual page descriptions
+  2533	whatweb (1)          - Next generation Web scanner. Identify technologies used by websites.
+  2534	whereis (1)          - locate the binary, source, and manual page files for a command
+  2535	which (1)            - locate a command
+  2536	whiptail (1)         - display dialog boxes from shell scripts
+  2537	whirlpooldeep (1)    - Compute and compare Whirlpool message digests
+  2538	who (1)              - show who is logged on
+  2539	whoami (1)           - print effective userid
+  2540	whois (1)            - client for the whois directory service
+  2541	whoismac (1)         - hcx tools set-N
+  2542	widget (1p)          - Demonstration of Perl/Tk widgets
+  2543	wig (1)              - WebApp Information Gatherer
+  2544	winicontoppm (1)     - convert a Windows .ico file into 1 or more portable pixmap files
+  2545	wireshark (1)        - Interactively dump and analyze network traffic
+  2546	wish (1)             - Simple windowing shell
+  2547	wish8.6 (1)          - Simple windowing shell
+  2548	wlancap2wpasec (1)   - hcx tools set-N
+  2549	wlanhcx2john (1)     - hcx tools set-N
+  2550	wlanhcx2ssid (1)     - hcx tools set-N
+  2551	wlanhcxcat (1)       - hcx tools set-N
+  2552	wlanhcxinfo (1)      - hcx tools set-N
+  2553	wlanjohn2hcx (1)     - hcx tools set-N
+  2554	wlanpmk2hcx (1)      - hcx tools set-N
+  2555	wlanwkp2hcx (1)      - hcx tools set-N
+  2556	word-list-compress (1) - word list compressor/decompressor for GNU Aspell
+  2557	wpaclean (1)         - clean wpa capture files
+  2558	wpa_passphrase (8)   - Generate a WPA PSK from an ASCII passphrase for a SSID
+  2559	wpscan (1)           - WordPress Security Scanner
+  2560	write (1)            - send a message to another user
+  2561	write (2)            - write to a file descriptor
+  2562	write.ul (1)         - send a message to another user
+  2563	wrjpgcom (1)         - insert text comments into a JPEG file
+  2564	www-browser (1)      - lynx-like alternative character mode WWW browser
+  2565	X (7)                - a portable, network-transparent window system
+  2566	x11perf (1)          - X11 server performance test program
+  2567	x11perfcomp (1)      - X11 server performance comparison program
+  2568	x86_64 (8)           - change reported architecture in new program environment and/or set personality flags
+  2569	x86_64-linux-gnu-addr2line (1) - convert addresses or symbol+offset into file names and line numbers
+  2570	x86_64-linux-gnu-ar (1) - create, modify, and extract from archives
+  2571	x86_64-linux-gnu-as (1) - the portable GNU assembler.
+  2572	x86_64-linux-gnu-c++filt (1) - demangle C++ and Java symbols
+  2573	x86_64-linux-gnu-dwp (1) - The DWARF packaging utility
+  2574	x86_64-linux-gnu-elfedit (1) - update ELF header and program property of ELF files
+  2575	x86_64-linux-gnu-gcc-ar (1) - a wrapper around ar adding the --plugin option
+  2576	x86_64-linux-gnu-gcc-ar-10 (1) - a wrapper around ar adding the --plugin option
+  2577	x86_64-linux-gnu-gcc-nm (1) - a wrapper around nm adding the --plugin option
+  2578	x86_64-linux-gnu-gcc-nm-10 (1) - a wrapper around nm adding the --plugin option
+  2579	x86_64-linux-gnu-gcc-ranlib (1) - a wrapper around ranlib adding the --plugin option
+  2580	x86_64-linux-gnu-gcc-ranlib-10 (1) - a wrapper around ranlib adding the --plugin option
+  2581	x86_64-linux-gnu-gold (1) - The GNU ELF linker
+  2582	x86_64-linux-gnu-gprof (1) - display call graph profile data
+  2583	x86_64-linux-gnu-ld (1) - The GNU linker
+  2584	x86_64-linux-gnu-ld.bfd (1) - The GNU linker
+  2585	x86_64-linux-gnu-ld.gold (1) - The GNU ELF linker
+  2586	x86_64-linux-gnu-nm (1) - list symbols from object files
+  2587	x86_64-linux-gnu-objcopy (1) - copy and translate object files
+  2588	x86_64-linux-gnu-objdump (1) - display information from object files
+  2589	x86_64-linux-gnu-python3-config (1) - output build options for python C/C++ extensions or embedding
+  2590	x86_64-linux-gnu-ranlib (1) - generate an index to an archive
+  2591	x86_64-linux-gnu-readelf (1) - display information about ELF files
+  2592	x86_64-linux-gnu-size (1) - list section sizes and total size of binary files
+  2593	x86_64-linux-gnu-strings (1) - print the sequences of printable characters in files
+  2594	x86_64-linux-gnu-strip (1) - discard symbols and other data from object files
+  2595	xargs (1)            - build and execute command lines from standard input
+  2596	xauth (1)            - X authority file utility
+  2597	xbiff (1)            - mailbox flag for X
+  2598	xbmtopbm (1)         - convert an X11 or X10 bitmap into a portable bitmap
+  2599	xbrlapi (1)          - X11 BrlAPI helper for Linux/Unix
+  2600	xcalc (1)            - scientific calculator for X
+  2601	xclip (1)            - command line interface to X selections (clipboard)
+  2602	xclipboard (1)       - X clipboard client
+  2603	xclip-copyfile (1)   - copy and move files via the X clipboard
+  2604	xclip-cutfile (1)    - copy and move files via the X clipboard
+  2605	xclip-pastefile (1)  - copy and move files via the X clipboard
+  2606	xclock (1)           - analog / digital clock for X
+  2607	xcmsdb (1)           - Device Color Characterization utility for X Color Management System
+  2608	xconsole (1)         - monitor system console messages with X
+  2609	xcursorgen (1)       - create an X cursor file from a collection of PNG images
+  2610	xcutsel (1)          - interchange between cut buffer and selection
+  2611	xdg-dbus-proxy (1)   - D-Bus proxy
+  2612	xdg-desktop-icon (1) - command line tool for (un)installing icons to the desktop
+  2613	xdg-desktop-menu (1) - command line tool for (un)installing desktop menu items
+  2614	xdg-email (1)        - command line tool for sending mail using the user's preferred e-mail composer
+  2615	xdg-icon-resource (1) - command line tool for (un)installing icon resources
+  2616	xdg-mime (1)         - command line tool for querying information about file type handling and adding descriptions for new file types
+  2617	xdg-open (1)         - opens a file or URL in the user's preferred application
+  2618	xdg-screensaver (1)  - command line tool for controlling the screensaver
+  2619	xdg-settings (1)     - get various settings from the desktop environment
+  2620	xdg-user-dir (1)     - Find an XDG user dir
+  2621	xdg-user-dirs-update (1) - Update XDG user dir configuration
+  2622	xditview (1)         - display ditroff output
+  2623	xdpyinfo (1)         - display information utility for X
+  2624	xdriinfo (1)         - query configuration information of DRI drivers
+  2625	xedit (1)            - simple text editor for X
+  2626	xev (1)              - print contents of X events
+  2627	xeyes (1)            - a follow the mouse X demo
+  2628	xfd (1)              - display all the characters in an X font
+  2629	xfontsel (1)         - point and click selection of X11 font names
+  2630	xgamma (1)           - Alter a monitor's gamma correction through the X server
+  2631	xgc (1)              - X graphics demo
+  2632	xgettext (1)         - extract gettext strings from source
+  2633	xhost (1)            - server access control program for X
+  2634	ximtoppm (1)         - convert an Xim file into a portable pixmap
+  2635	xinit (1)            - X Window System initializer
+  2636	xkbbell (1)          - XKB extension user utility
+  2637	xkbcomp (1)          - compile XKB keyboard description
+  2638	xkbevd (1)           - XKB event daemon
+  2639	xkbprint (1)         - print an XKB keyboard description
+  2640	xkbset (1)           - user preference utility for XKB extensions for X
+  2641	xkbvleds (1)         - XKB extension user utility
+  2642	xkbwatch (1)         - XKB extension user utility
+  2643	xkill (1)            - kill a client by its X resource
+  2644	xload (1)            - system load average display for X
+  2645	xlogo (1)            - X Window System logo
+  2646	xlsatoms (1)         - list interned atoms defined on server
+  2647	xlsclients (1)       - list client applications running on a display
+  2648	xlsfonts (1)         - server font list displayer for X
+  2649	xmag (1)             - magnify parts of the screen
+  2650	xman (1)             - Manual page display program for the X Window System
+  2651	xmessage (1)         - display a message or query in a window (X-based /bin/echo)
+  2652	xml_grep (1p)        - grep XML files looking for specific elements
+  2653	xml_merge (1p)       - merge back XML files split with C<xml_split>
+  2654	xml_pp (1p)          - xml pretty-printer
+  2655	xml_spellcheck (1p)  - spellcheck XML files
+  2656	xml_split (1p)       - cut a big XML file into smaller chunks
+  2657	xmodmap (1)          - utility for modifying keymaps and pointer button mappings in X
+  2658	xmore (1)            - plain text display program for the X Window System
+  2659	Xorg (1)             - X11R7 X server
+  2660	xpmtoppm (1)         - convert an X11 pixmap into a portable pixmap
+  2661	xprobe2 (1)          - A Remote active operating system fingerprinting tool.
+  2662	xprop (1)            - property displayer for X
+  2663	xrandr (1)           - primitive command line interface to RandR extension
+  2664	xrdb (1)             - X server resource database utility
+  2665	xrefresh (1)         - refresh all or part of an X screen
+  2666	x-session-manager (1) - Start the MATE Desktop Environment.
+  2667	xset (1)             - user preference utility for X
+  2668	xsetmode (1)         - set the mode for an X Input device
+  2669	xsetpointer (1)      - set an X Input device as the main pointer
+  2670	xsetroot (1)         - root window parameter setting utility for X
+  2671	xsetwacom (1)        - commandline utility to query and modify wacom driver settings.
+  2672	xslate (1p)          - Process Xslate Templates
+  2673	xsltproc (1)         - command line XSLT processor
+  2674	xsm (1)              - X Session Manager
+  2675	xstdcmap (1)         - X standard colormap utility
+  2676	xsubpp (1)           - compiler to convert Perl XS code into C code
+  2677	xterm (1)            - terminal emulator for X
+  2678	xtotroff (1)         - convert X font metrics into GNU troff font metrics
+  2679	Xvfb (1)             - virtual framebuffer X server for X Version 11
+  2680	xvfb-run (1)         - run specified X client or command in a virtual X server environment
+  2681	xvidtune (1)         - video mode tuner for Xorg
+  2682	xvinfo (1)           - Print out X-Video extension adaptor information
+  2683	xvkbd (1)            - virtual keyboard for X window system
+  2684	xvminitoppm (1)      - convert a XV "thumbnail" picture to PPM
+  2685	xwd (1)              - dump an image of an X window
+  2686	xwdtopnm (1)         - convert a X11 or X10 window dump file into a portable anymap
+  2687	xwininfo (1)         - window information utility for X
+  2688	xwud (1)             - image displayer for X
+  2689	x-www-browser (1)    - a Web browser for X11 derived from the Mozilla browser
+  2690	xxd (1)              - make a hexdump or do the reverse.
+  2691	xz (1)               - Compress or decompress .xz and .lzma files
+  2692	xzcat (1)            - Compress or decompress .xz and .lzma files
+  2693	xzcmp (1)            - compare compressed files
+  2694	xzdiff (1)           - compare compressed files
+  2695	xzegrep (1)          - search compressed files for a regular expression
+  2696	xzfgrep (1)          - search compressed files for a regular expression
+  2697	xzgrep (1)           - search compressed files for a regular expression
+  2698	xzless (1)           - view xz or lzma compressed (text) files
+  2699	xzmore (1)           - view xz or lzma compressed (text) files
+  2700	y2racc (1)           - Yacc grammar to racc grammar
+  2701	yara (1)             - find files matching patterns and rules written in a special-purpose language.
+  2702	yarac (1)            - compile rules to yara
+  2703	ybmtopbm (1)         - convert a Bennet Yee "face" file into a portable bitmap
+  2704	yelp (1)             - browse system documentation
+  2705	yersinia (8)         - A Framework for layer 2 attacks
+  2706	yes (1)              - output a string repeatedly until killed
+  2707	ypdomainname (1)     - show or set the system's NIS/YP domain name
+  2708	yuvsplittoppm (1)    - convert a Y- and a U- and a V-file into a portable pixmap
+  2709	yuvtoppm (1)         - convert Abekas YUV bytes into a portable pixmap
+  2710	zcat (1)             - compress or expand files
+  2711	zcmp (1)             - compare compressed files
+  2712	zdiff (1)            - compare compressed files
+  2713	zdump (8)            - timezone dumper
+  2714	zegrep (1)           - search possibly compressed files for a regular expression
+  2715	zeisstopnm (1)       - convert a Zeiss confocal file into a portable anymap
+  2716	zenity (1)           - display GTK+ dialogs
+  2717	zfgrep (1)           - search possibly compressed files for a regular expression
+  2718	zforce (1)           - force a '.gz' extension on all gzip files
+  2719	zgrep (1)            - search possibly compressed files for a regular expression
+  2720	zip (1)              - package and compress (archive) files
+  2721	zipcloak (1)         - encrypt entries in a zipfile
+  2722	zipdetails (1)       - display the internal structure of zip files
+  2723	zipgrep (1)          - search files in a ZIP archive for lines matching a pattern
+  2724	zipinfo (1)          - list detailed information about a ZIP archive
+  2725	zipnote (1)          - write the comments in zipfile to stdout, edit comments and rename files in zipfile
+  2726	zipsplit (1)         - split a zipfile into smaller zipfiles
+  2727	zless (1)            - file perusal filter for crt viewing of compressed text
+  2728	zmore (1)            - file perusal filter for crt viewing of compressed text
+  2729	znew (1)             - recompress .Z files to .gz files
+  2730	zrun (1)             - automatically uncompress arguments to command
+  2731	zuluCrypt-cli (1)    - command line interface frontend to cryptsetup and tcplay
+  2732	zuluCrypt-gui (1)    - Graphical front end for zuluCrypt-cli
+  2733	zuluMount-cli (1)    - command line tool that manages encrypted and unencrypted volumes
+  2734	zuluMount-gui (1)    - Graphical front end for zuluCrypt-cli
+  2735	zuluPolkit (1)       - It is a handler the polkit privileges
